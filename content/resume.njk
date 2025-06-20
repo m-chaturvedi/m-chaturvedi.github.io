@@ -1,0 +1,142 @@
+---js
+const eleventyNavigation = {
+	key: "Resume",
+	order: 2
+};
+const title = "Mmanu Chaturvedi: Resume";
+---
+
+<div class="headline">
+    {{ headline }}
+</div>
+
+<div >
+
+    <div class="border-b-1 border-[#e6e6e6]">
+        <div class="resume-section-title"> Education </div>
+        {%- for edu in education %}
+
+            <div class="block flex mb-5">
+                <div class="inline-block ml-auto order-2 text-right">
+                    <i>
+                        {{ edu.place }}
+                        <br>
+                        {{ edu.time }}
+                    </i>
+                </div>
+                <div class="inline-block ">
+                    <b>
+                        {{ edu.univ }}
+                    </b>
+                    <br>
+                    {{ edu.degree }}
+                </div>
+            </div>
+
+        {%- endfor %}
+    </div>
+
+    <div class="resume-section-title"> Work Experience </div>
+    {%- for work in work_experience %}
+        <div class="resume-border mb-3 pb-3">
+            <div class="block flex mb-5">
+                <div class="inline-block ml-auto order-2 text-right">
+                    <i>
+                        {{ work.place }}
+                        <br>
+                        {{ work.duration }}
+                    </i>
+                </div>
+                <div class="inline-block ">
+                    <b>
+                        {{ work.company }}
+                    </b>
+                    <br>
+                    {{ work.title }}
+                </div>
+            </div>
+
+            <ul class="list-disc">
+                {%- for job in work.details | reverse %}
+                    <li >
+                        {{ job }}
+                    </li>
+                {%- endfor %}
+            </ul>
+
+        </div>
+
+    {%- endfor %}
+
+    <div class="resume-section-title"> Programming Experience </div>
+    <ul class="list-disc resume-border pb-5 mb-5">
+        <li>
+            <b> Languages: </b>
+            {{ programming_experience.languages }}
+        </li>
+        <li>
+            <b> Web Technologies: </b>
+            {{ programming_experience.web_technologies }}
+        </li>
+        <li>
+            <b> Operating Systems: </b>
+            {{ programming_experience.operating_systems }}
+        </li>
+        <li>
+            <b> Other software: </b>
+            {{ programming_experience.other_software }}
+        </li>
+    </ul>
+
+    <div class="resume-section-title"> Publications </div>
+    <ul class="list-disc resume-border pb-5 mb-5">
+        <li>
+            <p>
+                <strong>M. Chaturvedi</strong>, R.M. McConnell <em>“A Note On
+Finding Minimum Mean Cycle"</em>, <strong>Information Processing
+Letters, 2017.</strong>&nbsp;</p>
+        </li>
+        <li>
+            <p>
+                <strong>M. Chaturvedi</strong>, T. Ghosh, M. Kirby, X. Liu, X.
+Ma, S. Stiverson <em>“Explorations in Very Early Prognosis of the Human
+Immune Response to Influenza"</em>, <strong>ACM International Workshop
+on Big Data in Life Sciences, 2016</strong>, Seattle.</p>
+        </li>
+        <li>
+            <p>C. Balaji, <strong>M. Chaturvedi</strong>, K. Srinivasa
+Ramanujam, V. Chandrasekar, C. Nguyen, M. Martinez <em>“What is the
+information content of TRMM precipitation radar for determining
+radiometer observations and vice versa?"</em>, <strong>IEEE IGARSS’
+2010</strong>, Honolulu.</p>
+        </li>
+    </ul>
+
+    <div class="resume-section-title"> Scholastic Achievements </div>
+    <ul class="list-disc resume-border pb-5 mb-5">
+        {%- for item in scholastic_achievements %}
+            <li>
+                {{ item }}</li>
+        {%- endfor %}
+    </ul>
+
+    <div class="resume-section-title"> Scholarship </div>
+    <ul class="list-disc resume-border pb-5 mb-5">
+        {%- for item in scholarship %}
+            <li>
+                {{ item }}</li>
+        {%- endfor %}
+    </ul>
+
+    <div class="resume-section-title"> References </div>
+    <ul class="list-disc resume-border pb-5 mb-5">
+        {%- for item in references %}
+            <li>
+                {{ item | safe }}</li>
+        {%- endfor %}
+        <li>
+            <a href="https://scholar.google.com/citations?user=qd7jqE4AAAAJ&hl=en" class="link">Google Scholar</a>
+        </li>
+    </ul>
+
+</div>

@@ -1,0 +1,48 @@
+@import "tailwindcss";
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* a:hover{ */
+    /* TODO: Understand why other elements move when p-2 is added on hover. */
+    /* @apply duration-500 hover:scale-110 hover:bg-slate-100 p-2 rounded-lg; */
+    /* @apply duration-500 bg-slate-100 rounded-lg; */
+/* } */
+
+/* TODO: See how to use theme for this. */
+html {
+    @apply text-[#333333]
+    bg-[url(/img/bg_pattern.jpg)]
+    m-auto
+  }
+
+#main_nav a[href][aria-current="page"]{
+	text-decoration: underline;
+}
+
+body {
+    margin: auto;
+    max-width: 800px;
+}
+
+#postlist-item:hover + #item-anim {
+    background: #ccc
+}
+
+.resume-section-title {
+    @apply font-bold mt-[10px] text-xl mb-5 uppercase
+}
+
+.resume-border {
+    @apply border-b-1 border-[#e6e6e6]
+}
+
+.link {
+    @apply underline decoration-1 decoration-dashed
+}
+@theme {
+    --text-sm: 0.875rem;
+    --text-base: 1rem;
+    --text-lg: 1.125rem;
+    --text-xl: 1.250rem;
+}

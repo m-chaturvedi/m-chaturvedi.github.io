@@ -1,0 +1,13 @@
+<ol reversed class="postlist mt-[40px]" style="--postlist-index: {{ (postslistCounter or postslist.length) + 1 }}">
+{%- for post in postslist | reverse %}
+	<li id="postlist-item-{{loop.index }}" class="group pb-[10px] pt-[10px] flex postlist-item{% if post.url == url %} postlist-item-active{% endif %}  {% if loop.index != 1 %} border-t-1 border-[#e6e6e6] {% endif %}">
+		{# <div class="align-middle pr-4 font-extrabold text-[13px] w-60 align-middle"> #}
+		<div id="item-anim-{{ loop.index }}" class="flex items-center mr-3">
+		<div class="w-[7px] h-[7px] mr-3 rounded-full bg-[#333333] transition-transform duration-300 group-hover:scale-220"></div>
+		<div class="whitespace-nowrap">{{ post.date | readableDate("yyyy-MM-dd hh:mm:ss z") }}</div>
+
+		</div>
+		<a href="{{ post.url }}" class="postlist-link font-bold link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+	</li>
+{%- endfor %}
+</ol>

@@ -1,0 +1,11 @@
+---js
+const eleventyNavigation = {
+	key: "Blog Archive",
+	order: 3
+};
+const title = "Mmanu Chaturvedi: Blog";
+---
+<h1 class="text-lg font-bold">Archive</h1>
+
+{% set postslist = collections.posts %}
+{% include "postslist.njk" %}

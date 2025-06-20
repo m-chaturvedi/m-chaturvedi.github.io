@@ -1,0 +1,143 @@
+{
+    "headline": "Self-driven software engineer with experience in working on novel technical problems in software, scientific, and engineering industries, as well as academia. Multi-disciplinary education in mechanical engineering and computer science. Always willing to learn and gain expertise in new technical areas.",
+    "education": [{
+            "univ": "University of Toronto",
+            "place": "Toronto, ON, Canada",
+            "degree": "Master of Science in Applied Computer Science (Computer Science concentration)",
+            "time": "Sept 2024 - present",
+            "details": []
+        },
+        {
+            "univ": "Concordia University",
+            "place": "Montréal, QC, Canada",
+            "degree": "Master of Engineering, Information Systems Security (Transferred to UToronto)",
+            "time": "Jan 2024 - Sept 2024",
+            "CGPA": "4.0/4.0",
+            "details": []
+        },
+        {
+            "univ": "Colorado State University",
+            "place": "Fort Collins, CO, USA",
+            "degree": "Master of Science",
+            "time": "Jan 2013 - Aug 2017",
+            "details": [
+                "Major in Computer Science (Advisor: Dr. Ross M. McConnell)",
+                "CGPA of 3.95/4.0 (Thesis: A Parametric Classification of Directed Acyclic Graphs)"
+            ]
+        },
+        {
+            "univ": "Indian Institute of Technology (IIT) Madras",
+            "place": "Chennai, TN, India",
+            "degree": "Dual Degree (B. Tech, M. Tech)",
+            "time": "2005 - 2010",
+            "details": [
+                "Major in Mechanical Engineering",
+                "Minor in Mathematics for Computer Science",
+                "M. Tech in Energy Technology (Advisor: Dr. C. Balaji)",
+                "CGPA of 8.16/10.0 (Thesis: To explore the relationship between TRMM-PR and TMI using ANN)"
+            ]
+        }
+    ],
+    "work_experience": [{
+            "company": "Scania AB",
+            "place": "Södertälje, Sweden",
+            "title": "Development Engineer (Connected and Autonomous Systems)",
+            "duration": "March 2021 – Feb 2024",
+            "details": [
+                "Implemented a logging system that logs data from different devices on autonomous trucks as a part of a team of 5.",
+                "Designed and implemented the continuous integration and testing workflow, and the deployment infrastructure for the product using containers (Docker).",
+                "Wrote software in Bash to simulate hardware devices present on trucks.",
+                "Implemented an image processing algorithm for automatically detecting cameras placed on autonomous trucks.",
+                "Implemented the API for the product using GraphQL specification.",
+                "Mentored two new software engineers."
+            ]
+        },
+        {
+            "company": "Kitware Inc.",
+            "place": "Carrboro, NC, USA",
+            "title": "Research and Development Engineer",
+            "duration": "Aug 2017 – July 2020",
+            "details": [
+                "Contributed to the open-source project Drake (C++ / Python) with Toyota Research Institute and MIT. Worked with dynamic analysis tools like Valgrind and LLVM Sanitizers.",
+                "Automated documentation generation for Python bindings using the corresponding C++ documentation in Doxygen format, https://drake.mit.edu/pydrake/index.html.",
+                "Worked on Drake’s Python bindings which are written using pybind11.",
+                "Worked on the problem of interactive query refinement (IQR) using SVM for image classification.",
+                "Implemented a new image format, MIE4NITF, by extending the open-source image reader, GDAL. This is a format used for satellite images.",
+                "Added features to Kitware’s open-source libraries like Kwiver, VidTK, Fletch, VIAME, etc.",
+                "Patched popular open-source libraries like cpplint, gflags, lcm, bullet3, Pybind11, etc."
+            ]
+        },
+        {
+            "company": "Kitware Inc.",
+            "place": "Carrboro, NC, USA",
+            "title": "Research and Development Intern",
+            "duration": "March 2017 – Aug 2017",
+            "details": [
+                "Worked on the project Drake with Toyota Research Institute and MIT."
+            ]
+        },
+        {
+            "company": "Colorado State University",
+            "place": "Fort Collins, CO, USA",
+            "title": "Research Assistant to Dr. Michael Kirby, Department of Mathematics",
+            "duration": "May 2015 – Dec 2016",
+            "details": [
+                "Worked on the problem of very early prognosis of diseases on microarray data using machine learning techniques.",
+                "Processed microarray datasets for analysis of influenza and Ebola viruses. Used various ML algorithms to find the most discriminating biological pathways (sets of genes).",
+                "Sped up machine learning algorithms by implementing them in C++ (Code available on request)"
+            ]
+        },
+        {
+            "company": "Chronus Corporation",
+            "place": "Chennai, TN, India",
+            "title": "Software Design Engineer",
+            "duration": "Jul 2010 – Nov 2011",
+            "details": [
+                "Developed 'Chronus Mentor', a unique and innovative Web 2.0 solution that enables organizations to run high-impact mentoring programs, as part of a team of three (2007 startup)"
+            ]
+        }
+    ],
+    "programming_experience": {
+        "languages": "C++, Bash, C, Python, Ruby, JavaScript, Visual Basic",
+        "web_technologies": "Ajax, Ruby on Rails, jQuery, HTML, CSS",
+        "operating_systems": "Linux (Debian), Windows (XP, 7)",
+        "other_software": "Docker, Git, Vim, Ansible, CMake, Tmux, LaTeX, CUDA (Basic), MATLAB"
+    },
+    "Patent (In Progress)": [{
+        "authors": "Mmanu Chaturvedi, Tymofiy Lukinov",
+        "title": "Automatized identification of cameras mounted on vehicles",
+        "venue": "Scania AB, Sweden"
+    }],
+    "publications": [{
+            "authors": "M. Chaturvedi, R.M. McConnell",
+            "title": "A Note On Finding Minimum Mean Cycle",
+            "venue": "Information Processing Letters, 2017"
+        },
+        {
+            "authors": "M. Chaturvedi, T. Ghosh, M. Kirby, X. Liu, X. Ma, S. Stiverson",
+            "title": "Explorations in Very Early Prognosis of the Human Immune Response to Influenza",
+            "venue": "ACM International Workshop on Big Data in Life Sciences, 2016, Seattle"
+        },
+        {
+            "authors": "C. Balaji, M. Chaturvedi, K. Srinivasa Ramanujam, V. Chandrasekar, C. Nguyen, M. Martinez",
+            "title": "What is the information content of TRMM precipitation radar for determining radiometer observations and vice versa?",
+            "venue": "IEEE IGARSS’ 2010, Honolulu"
+        }
+    ],
+    "scholastic_achievements": [
+        "Have an Erdős number of 3 (McConnell → Hell → Erdős)",
+        "Selected for the Research Experience for Undegraduates (REU) program at Colorado State University in Summer 2009.",
+        "Ranked in the top 1% in India (IIT-JEE 2005) among more than 200,000 students.",
+        "Secured A+ grade in a one-year diploma course, 'Higher Diploma in Computer Programming and Applications' from All India Society for Electronics and Computer Technology (AISECT) in 1999–2000, at the age of 13-14."
+    ],
+    "scholarship": [
+        "Research Assistant to Dr. Michael Kirby, May '15 to Dec '16, Colorado State University.",
+        "Research Assistant to Dr. Sanjay Rajopadhye, Sep '14 to Jan '15, Colorado State University.",
+        "Teaching Assistant, Fall '14, 'Introduction to Analysis of Algorithms', Colorado State University.",
+        "Research Assistant, Electrical Engineering, Jan '13 to Sep '13, Colorado State University."
+    ],
+    "references": [
+        "Dr. Ross M. McConnell, Department of Computer Science, Colorado State University",
+        "Dr. Michael Kirby, Department of Mathematics, Colorado State University"
+    ]
+}
