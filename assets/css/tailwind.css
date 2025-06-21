@@ -797,7 +797,7 @@ html {
 }
 body {
   margin: auto;
-  max-width: 800px;
+  width: 40em;
 }
 #postlist-item:hover + #item-anim {
   background: #ccc;
