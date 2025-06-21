@@ -465,6 +465,9 @@
   .transform {
     transform: var(--tw-rotate-x,) var(--tw-rotate-y,) var(--tw-rotate-z,) var(--tw-skew-x,) var(--tw-skew-y,);
   }
+  .list-inside {
+    list-style-position: inside;
+  }
   .list-disc {
     list-style-type: disc;
   }
@@ -798,6 +801,7 @@ html {
 body {
   margin: auto;
   max-width: 40em;
+  padding: 10px;
 }
 #postlist-item:hover + #item-anim {
   background: #ccc;
