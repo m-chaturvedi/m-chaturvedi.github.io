@@ -56,7 +56,7 @@ const title = "Mmanu Chaturvedi: Resume";
                 </div>
             </div>
 
-            <ul class="list-disc">
+            <ul class="list-disc list-inside">
                 {%- for job in work.details | reverse %}
                     <li >
                         {{ job }}
@@ -69,7 +69,7 @@ const title = "Mmanu Chaturvedi: Resume";
     {%- endfor %}
 
     <div class="resume-section-title"> Programming Experience </div>
-    <ul class="list-disc resume-border pb-5 mb-5">
+    <ul class="list-disc list-inside resume-border pb-5 mb-5">
         <li>
             <b> Languages: </b>
             {{ programming_experience.languages }}
@@ -89,7 +89,7 @@ const title = "Mmanu Chaturvedi: Resume";
     </ul>
 
     <div class="resume-section-title"> Publications </div>
-    <ul class="list-disc resume-border pb-5 mb-5">
+    <ul class="list-disc list-inside resume-border pb-5 mb-5">
         <li>
             <p>
                 <strong>M. Chaturvedi</strong>, R.M. McConnell <em>“A Note On
@@ -113,7 +113,7 @@ radiometer observations and vice versa?"</em>, <strong>IEEE IGARSS’
     </ul>
 
     <div class="resume-section-title"> Scholastic Achievements </div>
-    <ul class="list-disc resume-border pb-5 mb-5">
+    <ul class="list-disc list-inside resume-border pb-5 mb-5">
         {%- for item in scholastic_achievements %}
             <li>
                 {{ item }}</li>
@@ -121,7 +121,7 @@ radiometer observations and vice versa?"</em>, <strong>IEEE IGARSS’
     </ul>
 
     <div class="resume-section-title"> Scholarship </div>
-    <ul class="list-disc resume-border pb-5 mb-5">
+    <ul class="list-disc list-inside resume-border pb-5 mb-5">
         {%- for item in scholarship %}
             <li>
                 {{ item }}</li>
@@ -129,7 +129,7 @@ radiometer observations and vice versa?"</em>, <strong>IEEE IGARSS’
     </ul>
 
     <div class="resume-section-title"> References </div>
-    <ul class="list-disc resume-border pb-5 mb-5">
+    <ul class="list-disc list-inside resume-border pb-5 mb-5">
         {%- for item in references %}
             <li>
                 {{ item | safe }}</li>
