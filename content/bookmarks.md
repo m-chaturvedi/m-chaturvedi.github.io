@@ -23,5 +23,5 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 
 ### Misc
 - [The electric typewriter.  Long-form article recommendation.](https://tetw.org/)
-
+- [America’s Top Export May Be Anxiety](https://12ft.io/https://www.theatlantic.com/ideas/archive/2024/06/mental-health-crisis-anglosphere-depressed/678724/)
 </article>
