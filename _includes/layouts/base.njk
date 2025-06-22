@@ -1,11 +1,11 @@
 <!doctype html>
-<html lang="{{ metadata.language }}">
+<html lang="{{ metadata.language }}" data-theme="light">
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>{{ title or metadata.title }}</title>
 		<meta name="description" content="{{ description or metadata.description }}">
-		 <link rel="stylesheet" href="{{ '/assets/css/tailwind.css' | url }}">
+		<link rel="stylesheet" href="{{ '/assets/css/tailwind.css' | url }}">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
 		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
@@ -23,7 +23,9 @@
 		#}
 
 		{#- Add CSS to the bundle #}
-		<style>/* This is an arbitrary CSS string added to the bundle */</style>
+		<style>
+			/* This is an arbitrary CSS string added to the bundle */
+		</style>
 
 		{#- Add the contents of a file to the bundle #}
 		{# <style>{% include "css/index.css" %}</style> #}
@@ -38,7 +40,9 @@
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 
 		{#- Add the heading-anchors web component to the JavaScript bundle #}
-		<script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
+		<script type="module">
+			{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}
+		</script>
 	</head>
 	<body>
 		{# <a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a> #}
@@ -48,13 +52,19 @@
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
 			<nav id="main_nav">
+				<span tabindex="0" class="menu-icon btn m-1" role="button">
+					<svg id="menu-icon-svg" viewBox="0 0 18 15" width="18px" height="15px">
+						<path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"></path>
+					</svg>
+				</span>
 				{# <h2 class="visually-hidden">Top level navigation menu</h2> #}
-				<ul class="nav flex flex-row justify-center">
-				{%- for entry in collections.all | eleventyNavigation %}
-					{# <li class="nav-item p-2 m-2 rounded-lg px-4 py-2 font-bold text-white hover:bg-teal-700 dark:text-gray-300 dark:hover:bg-teal-800 bg-teal-950"> #}
-					<li class="nav-item p-2 mb-10 mt-5 rounded-lg px-4 py-2 font-bold hover:underline text-xl">
-						<a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a></li>
-				{%- endfor %}
+				<ul tabindex="0" class="nav dropdown-content">
+					{%- for entry in collections.all | eleventyNavigation %}
+						{# <li class="nav-item p-2 m-2 rounded-lg px-4 py-2 font-bold text-white hover:bg-teal-700 dark:text-gray-300 dark:hover:bg-teal-800 bg-teal-950"> #}
+						<li class="nav-item ">
+							<a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+						</li>
+					{%- endfor %}
 				</ul>
 			</nav>
 		</header>

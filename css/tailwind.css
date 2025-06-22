@@ -1,32 +1,60 @@
 @import "tailwindcss";
-/* @tailwind base;
+@tailwind base;
 @tailwind components;
-@tailwind utilities; */
+@tailwind utilities;
+@plugin "daisyui";
 
 /* a:hover{ */
-    /* TODO: Understand why other elements move when p-2 is added on hover. */
-    /* @apply duration-500 hover:scale-110 hover:bg-slate-100 p-2 rounded-lg; */
-    /* @apply duration-500 bg-slate-100 rounded-lg; */
+/* TODO: Understand why other elements move when p-2 is added on hover. */
+/* @apply duration-500 hover:scale-110 hover:bg-slate-100 p-2 rounded-lg; */
+/* @apply duration-500 bg-slate-100 rounded-lg; */
 /* } */
 
 /* TODO: See how to use theme for this. */
 html {
-    @apply text-[#333333]
-    bg-[url(/img/bg_pattern.jpg)]
-    m-auto
-  }
-
-#main_nav a[href][aria-current="page"]{
-	text-decoration: underline;
+    @apply text-[#333333] bg-[url(/img/bg_pattern.jpg)] m-auto
 }
+
+#main_nav {
+    @apply max-sm:dropdown;
+}
+
+#main_nav a[href][aria-current="page"] {
+    text-decoration: underline;
+}
+
+.dropdown:hover .dropdown-content {
+    @apply sm:block;
+}
+
+.menu-icon {
+    @apply sm:hidden;
+}
+
+#menu-icon-svg {
+    @apply sm:hidden;
+}
+
+.menu-icon:hover .nav-item {}
+
+#main_nav .nav {
+    @apply sm:flex sm:flex-row sm:justify-center;
+    @apply max-sm:menu max-sm:bg-base-100 max-sm:rounded-box max-sm:z-1 max-sm:w-52 max-sm:p-2 max-sm:shadow-sm;
+}
+
+
+#main_nav .nav-item {
+    @apply sm:p-2 sm:mb-10 sm:mt-5 sm:rounded-lg sm:px-4 sm:py-2 sm:font-bold sm:hover:underline sm:text-xl;
+}
+
 
 body {
     margin: auto;
-    max-width: 40em;
+    max-width: 60em;
     padding: 10px;
 }
 
-#postlist-item:hover + #item-anim {
+#postlist-item:hover+#item-anim {
     background: #ccc
 }
 
@@ -41,7 +69,9 @@ body {
 .link {
     @apply underline decoration-1 decoration-dashed
 }
+
 @theme {
+    --text-xm: 0.750rem;
     --text-sm: 0.875rem;
     --text-base: 1rem;
     --text-lg: 1.125rem;
