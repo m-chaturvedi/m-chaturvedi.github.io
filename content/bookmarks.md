@@ -21,4 +21,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 	-	[News Happening Faster Than Man Can Generate Uninformed Opinions](https://www.theonion.com/news-happening-faster-than-man-can-generate-uninformed-1851601466)
 - BBC advert by John Le Carre. We believe in listening. [BBC radio advert](https://www.youtube.com/watch?v=rTvh61DctUY)
 
+### Misc
+- [The electric typewriter.  Long-form article recommendation.](https://tetw.org/)
+
 </article>
