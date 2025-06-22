@@ -5,6 +5,7 @@ import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
+import markdownIt from "markdown-it";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -63,7 +64,7 @@ export default async function(eleventyConfig) {
 		templateData: {
 			eleventyNavigation: {
 				key: "Feed",
-				order: 4
+				order: 5
 			}
 		},
 		collection: {
@@ -115,6 +116,13 @@ export default async function(eleventyConfig) {
 		return (new Date()).toISOString();
 	});
 
+	let options = {
+		html: true,
+		// breaks: true,
+		linkify: true,
+	};
+
+	eleventyConfig.setLibrary("md", markdownIt(options));
 	// Features to make your build faster (when you need them)
 
 	// If your passthrough copy gets heavy and cumbersome, add this line

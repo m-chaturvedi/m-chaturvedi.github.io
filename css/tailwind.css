@@ -3,6 +3,7 @@
 @tailwind components;
 @tailwind utilities;
 @plugin "daisyui";
+@plugin "@tailwindcss/typography";
 
 /* a:hover{ */
 /* TODO: Understand why other elements move when p-2 is added on hover. */
@@ -71,7 +72,11 @@ body {
 }
 
 .link {
-    @apply underline decoration-1 decoration-dashed
+    @apply underline decoration-1 decoration-dashed;
+}
+
+heading-anchors a{
+    @apply underline decoration-1 decoration-dashed list-disc;
 }
 
 @theme {

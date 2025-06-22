@@ -8,7 +8,7 @@ layout: layouts/base.njk
 			rel="stylesheet"
 		/>
 <link rel="stylesheet" href="{{ '/assets/css/prism-diff.css' | url }}">
-<h1 class="font-bold">{{ title }}</h1>
+<h1 class="font-bold text-xl">{{ title }}</h1>
 
 <ul class="post-metadata italic mb-8 flex flex-wrap">
 	<li class="italic pr-[10px]">
@@ -22,8 +22,10 @@ layout: layouts/base.njk
 		</li>
 	{%- endfor %}
 </ul>
-<div class="mb-8 resume-border pb-[20px]">
-	{{ content | safe }}
+<div id="post-content" class="mb-8 resume-border pb-[20px] text-justify">
+	<article class="prose lg:prose-base max-w-none">
+		{{ content | safe }}
+	</article>
 </div>
 
 {%- if collections.posts %}
