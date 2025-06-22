@@ -1524,6 +1524,9 @@
   .pb-\[20px\] {
     padding-bottom: 20px;
   }
+  .pb-\[40px\] {
+    padding-bottom: 40px;
+  }
   .pl-0 {
     padding-left: calc(var(--spacing) * 0);
   }
@@ -1544,6 +1547,9 @@
   }
   .pl-6 {
     padding-left: calc(var(--spacing) * 6);
+  }
+  .pl-\[10px\] {
+    padding-left: 10px;
   }
   .text-center {
     text-align: center;
