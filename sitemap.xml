@@ -2,18 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://example.com/blog/firstpost/</loc>
-		<lastmod>2018-05-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/blog/secondpost/</loc>
-		<lastmod>2018-07-04</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://example.com/blog/thirdpost/</loc>
-		<lastmod>2018-08-24</lastmod>
+		<loc>https://example.com/blog/001/</loc>
+		<lastmod>2025-06-22</lastmod>
 	</url>
 	
 	<url>
