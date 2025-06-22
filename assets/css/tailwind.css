@@ -1521,6 +1521,9 @@
   .pb-\[10px\] {
     padding-bottom: 10px;
   }
+  .pb-\[20px\] {
+    padding-bottom: 20px;
+  }
   .pl-0 {
     padding-left: calc(var(--spacing) * 0);
   }
