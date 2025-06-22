@@ -2,11 +2,7 @@
 layout: layouts/base.njk
 ---
 {# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
-{# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
-<link
-			href="https://unpkg.com/prismjs@1.20.0/themes/prism-okaidia.css"
-			rel="stylesheet"
-		/>
+<link rel="stylesheet" href="{{ '/assets/css/prism-okaidia.css' | url }}">
 <link rel="stylesheet" href="{{ '/assets/css/prism-diff.css' | url }}">
 <h1 class="font-bold text-xl">{{ title }}</h1>
 
