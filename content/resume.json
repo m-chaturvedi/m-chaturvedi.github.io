@@ -58,8 +58,8 @@
             "title": "Research and Development Engineer",
             "duration": "Aug 2017 – July 2020",
             "details": [
-                "Contributed to the open-source project Drake (C++ / Python) with Toyota Research Institute and MIT. Worked with dynamic analysis tools like Valgrind and LLVM Sanitizers.",
-                "Automated documentation generation for Python bindings using the corresponding C++ documentation in Doxygen format, https://drake.mit.edu/pydrake/index.html.",
+                "Contributed to the <a href='https://drake.mit.edu' class='link'>open-source project Drake</a> (C++ / Python) with Toyota Research Institute and MIT. Worked with dynamic analysis tools like Valgrind and LLVM Sanitizers.",
+                "Automated documentation generation for Python bindings using the corresponding C++ documentation in <a href='https://drake.mit.edu/pydrake/index.html' class='link'> Doxygen format.</a>",
                 "Worked on Drake’s Python bindings which are written using pybind11.",
                 "Worked on the problem of interactive query refinement (IQR) using SVM for image classification.",
                 "Implemented a new image format, MIE4NITF, by extending the open-source image reader, GDAL. This is a format used for satellite images.",

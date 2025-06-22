@@ -59,9 +59,10 @@ const title = "Mmanu Chaturvedi: Resume";
             </div>
 
             <ul class="list-disc list-inside">
-                {%- for job in work.details | reverse %}
+                {%- for job in work.details %}
                     <li >
-                        {{ job }}
+                        {% set parsed_job = job | safe %}
+                        {{ parsed_job }}
                     </li>
                 {%- endfor %}
             </ul>
