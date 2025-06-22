@@ -17,6 +17,7 @@ html {
 
 #main_nav {
     @apply max-sm:dropdown;
+    @apply max-sm:pb-[20px];
 }
 
 #main_nav a[href][aria-current="page"] {
@@ -47,6 +48,9 @@ html {
     @apply sm:p-2 sm:mb-10 sm:mt-5 sm:rounded-lg sm:px-4 sm:py-2 sm:font-bold sm:hover:underline sm:text-xl;
 }
 
+.postlist-item {
+    @apply max-sm:flex-wrap;
+}
 
 body {
     margin: auto;
