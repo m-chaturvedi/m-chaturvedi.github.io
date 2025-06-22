@@ -6,6 +6,7 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
 import pluginFilters from "./_config/filters.js";
 import markdownIt from "markdown-it";
+import typography from "@tailwindcss/typography";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
@@ -56,6 +57,7 @@ export default async function(eleventyConfig) {
 	eleventyConfig.addPlugin(pluginNavigation);
 	eleventyConfig.addPlugin(HtmlBasePlugin);
 	eleventyConfig.addPlugin(InputPathToUrlTransformPlugin);
+	eleventyConfig.addPlugin(typography);
 
 	eleventyConfig.addPlugin(feedPlugin, {
 		type: "atom", // or "rss", "json"
