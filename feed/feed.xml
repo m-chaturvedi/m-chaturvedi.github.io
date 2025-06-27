@@ -5,11 +5,27 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2025-06-22T17:04:29Z</updated>
+  <updated>2025-06-27T00:00:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>Welcome!</title>
+    <link href="https://m-chaturvedi.github.io/blog/004/" />
+    <updated>2025-06-27T00:00:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/004/</id>
+    <content type="html">&lt;h1 id=&quot;working-vey-hard-and-programming&quot;&gt;&#39;Working vey hard&#39; and programming&lt;/h1&gt;
+&lt;p&gt;I came across this Zen story, &lt;a href=&quot;https://sofoarchon.com/10-short-zen-stories/&quot;&gt;here&lt;/a&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A martial arts student went to his teacher and said earnestly, “I am devoted to studying your martial system.
+How long will it take me to master it.” The teacher’s reply was casual, “Ten years.” Impatiently, the student answered,
+“But I want to master it faster than that. I will work very hard. I will practice every day, ten or more hours a day if I have to. How long will it take then?”
+The teacher thought for a moment, “20 years.”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This seems to be true for programming as well. If a programming task needs to be finished quickly because of some underlying reason which comes from &amp;quot;thinking fast&amp;quot;, instead of &amp;quot;thinking slow&amp;quot;, it cannot be finished at the expected rate, because one would start creating work by introducing bugs and finishing the task would take more time than it would have if there wasn&#39;t a need of finishing it at speed.  There must be some XKCD for this which I can&#39;t find.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Ghalib on transactional love, futility and ego.</title>
     <link href="https://m-chaturvedi.github.io/blog/003/" />
