@@ -47,6 +47,7 @@ html {
 
 #main_nav .nav-item {
     @apply sm:p-2 sm:mb-10 sm:mt-5 sm:rounded-lg sm:px-4 sm:py-2 sm:font-bold sm:hover:underline sm:text-xl;
+	@apply font-bold;
 }
 
 .postlist-item {
