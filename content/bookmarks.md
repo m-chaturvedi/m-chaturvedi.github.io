@@ -20,7 +20,8 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 	- 	[Prudish Woman On First Date Declines To Bear Man’s Children](https://theonion.com/prudish-woman-on-first-date-declines-to-bear-man-s-chil-1851339690/)
 	-	[News Happening Faster Than Man Can Generate Uninformed Opinions](https://www.theonion.com/news-happening-faster-than-man-can-generate-uninformed-1851601466)
    	-	Very funny! [MAGA Voter Assumed Trump Would Only Deport People On List She Mailed To White House](https://theonion.com/maga-voter-assumed-trump-would-only-deport-people-on-list-she-mailed-to-white-house/)
-    - 	[Baby saves affair!](https://theonion.com/baby-saves-affair/)
+	- 	[Baby saves affair!](https://theonion.com/baby-saves-affair/)
+        -	Wisdom: [Temp Hides Fun, Fulfilling Life From Rest Of Office](https://theonion.com/temp-hides-fun-fulfilling-life-from-rest-of-office-1819566599/)
 - BBC advert by John Le Carre. We believe in listening. [BBC radio advert](https://www.youtube.com/watch?v=rTvh61DctUY)
 
 ### Misc
