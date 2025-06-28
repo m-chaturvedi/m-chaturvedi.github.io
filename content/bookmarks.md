@@ -14,6 +14,9 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 - Scientific American: [How Honesty Won This Economist a Nobel Prize](https://www.scientificamerican.com/article/how-the-mathematics-of-honesty-underlies-these-auctions/)
 - Cornell: [The Cornell Note Taking System](https://lsc.cornell.edu/how-to-study/taking-notes/cornell-note-taking-system/)
 
+### Philosophy
+- [Thanu Padmanabhan's Akbar story](https://web.archive.org/web/20231104074814/https://web.iucaa.in/~paddy/)
+
 ### Fun
 
 - The Onion: 
@@ -31,5 +34,5 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 
 - [The electric typewriter.  Long-form article recommendation.](https://tetw.org/)
 - [America’s Top Export May Be Anxiety](https://12ft.io/https://www.theatlantic.com/ideas/archive/2024/06/mental-health-crisis-anglosphere-depressed/678724/)
-  
+
   </article>
