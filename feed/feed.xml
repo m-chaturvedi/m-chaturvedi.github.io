@@ -53,8 +53,8 @@ to allow comparisons between regions.&lt;/p&gt;
     <id>https://m-chaturvedi.github.io/blog/005/</id>
     <content type="html">&lt;p&gt;A former classmate wrote on LinkedIn:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The problem with India is that for every one guy  working 8 hours a day, there
-are 10 willing to do 16 hours and it becomes the norm.&lt;/p&gt;
+&lt;p&gt;The problem with India is that for every one guy  working 8 hours a day,
+there are 10 willing to do 16 hours and it becomes the norm.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;While I agree with what he said, his observation can be analyzed further.  He&#39;s
 assuming that the only way to measure productivity is the number of hours
@@ -62,13 +62,15 @@ invested.&lt;/p&gt;
 &lt;p&gt;In the age of machines this model of measuring productivity doesn&#39;t hold.  For
 example, the sum total of the number of hours invested by all the employees to
 create the first iteration of Google search would be much less than the sum
-total of the time saved by the users to search websites they were looking for
-using Google search. This is true for many software tools.&lt;/p&gt;
+total of the time saved by the them (and the users) to search websites they
+were looking for using Google search. This would lead to an increase in
+productivity in the long-term. This is true for many software tools.&lt;/p&gt;
+&lt;p&gt;Another example that comes to mind is that of, vim. Very creative software
+engineers who created tools like vim ended up saving millions of hours in text
+editing themselves of other engineers.&lt;/p&gt;
 &lt;p&gt;My former-batchmate&#39;s model of estimating productivity doesn&#39;t take into
 account the amount of time saved by working for fewer hours but doing creative
-work, which ends up saving a lot of time in the future. Another example that
-comes to mind is that of, vim. Very creative software engineers who created
-tools like vim ended up saving millions of hours in text editing of other engineers.&lt;/p&gt;
+work, which ends up saving a lot of time in the future.&lt;/p&gt;
 &lt;p&gt;The other point to keep in mind is that the cause of creativity is boredom.  If
 one is always doing repetitive work and does not have any free time to reflect,
 they will not be creative. So, I think &amp;quot;the problem with India&amp;quot; is that the
