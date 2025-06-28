@@ -18,7 +18,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 
 - [Thanu Padmanabhan's Akbar story](https://web.archive.org/web/20231104074814/https://web.iucaa.in/~paddy/)
 
-### Fun
+### Amusement
 
 - The Onion: 
   - [Pregnant Belly Helps Grade Schooler Balance Weight Of 20-Pound Backpack](https://www.theonion.com/pregnant-belly-helps-grade-schooler-balance-weight-of-2-1851521196)
