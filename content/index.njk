@@ -7,9 +7,14 @@ const numberOfLatestPostsToShow = 3;
 const title = "Mmanu Chaturvedi: Home";
 ---
 Hello!  Namaste!  This is Mmanu Chaturvedi's home on the web.  <i> Tread very, very lightly!</i>
-<br>
-Here you will find his resume, some projects that he wishes to highlight and his weblog.
+<br><br>
+Here you will find his resume, some projects that he wishes to highlight and his weblog.  He can be contacted via email:
 
+<div class="">
+	<p>
+<a class="link" href='mailto&#58;%&#54;Dman&#117;&#46;c&#104;%61tur&#37;7&#54;e&#100;&#105;&#64;&#103;mail&#46;%&#54;3&#37;6Fm'>&#109;ma&#110;u&#46;&#99;&#104;atu&#114;&#118;&#101;&#100;&#105;&#64;&#103;mail&#46;&#99;om</a>
+	</p>
+</div>
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
@@ -34,3 +39,5 @@ Here you will find his resume, some projects that he wishes to highlight and his
 	{%- endfor %}
 </ul>
 #}
+
+
