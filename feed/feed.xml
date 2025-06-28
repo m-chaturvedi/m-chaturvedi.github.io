@@ -5,11 +5,39 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2025-06-27T00:00:00Z</updated>
+  <updated>2025-06-28T13:58:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>&#39;The problem with India&#39;</title>
+    <link href="https://m-chaturvedi.github.io/blog/005/" />
+    <updated>2025-06-28T13:58:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/005/</id>
+    <content type="html">&lt;p&gt;A former classmate wrote on LinkedIn:&lt;/p&gt;
+&lt;p&gt;&amp;quot;The problem with India is that for every one guy  working 8 hours a day, there
+are 10 willing to do 16 hours and it becomes the norm.&amp;quot;&lt;/p&gt;
+&lt;p&gt;While I agree with what he said, his observation can be analyzed further.  He&#39;s
+assuming that the only way to measure productivity is the number of hours
+invested.&lt;/p&gt;
+&lt;p&gt;In the age of machines this model of measuring productivity doesn&#39;t hold.  For
+example, the sum total of the number of hours invested by all the employees to
+create the first iteration of Google search would be much less than the time
+saved by the users to search websites they were looking for using Google search.
+This is true for many software tools.&lt;/p&gt;
+&lt;p&gt;My former-batchmate&#39;s model of estimating productivity doesn&#39;t take into
+account the amount of time saved by working for fewer hours but doing creative
+work, which ends up saving a lot of time in the future. Another example that
+comes to mind if that of, vim. Very creative software engineers who created
+tools like vim ended up saving millions of hours in text editing.&lt;/p&gt;
+&lt;p&gt;The other point to keep in mind is that the cause of creativity is boredom.  If
+one is always doing repetitive work and do not have any free time to reflect,
+they will not be creative. So, I think &amp;quot;the problem with India&amp;quot; is that the
+Indian companies don&#39;t know how to nurture or leverage creativity, and have a
+wrong model of measuring the productivity.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>&#39;Working very hard&#39; and programming</title>
     <link href="https://m-chaturvedi.github.io/blog/004/" />
