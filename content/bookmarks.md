@@ -17,6 +17,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 ### Philosophy
 
 - [Thanu Padmanabhan's Akbar story](https://web.archive.org/web/20231104074814/https://web.iucaa.in/~paddy/)
+- [Chomsky interviewed by a reporter about journalistic ethics.](https://youtu.be/lLcpcytUnWU)
 
 ### Amusement
 
