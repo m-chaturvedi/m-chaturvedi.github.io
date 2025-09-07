@@ -31,6 +31,8 @@ const title = "Mmanu Chaturvedi: Bookmarks";
   - [Baby saves affair!](https://theonion.com/baby-saves-affair/)
   - Wisdom: [Temp Hides Fun, Fulfilling Life From Rest Of Office](https://theonion.com/temp-hides-fun-fulfilling-life-from-rest-of-office-1819566599/)
   - [CEO Worried 23-Year-Old Only Into Him For His Keen Business Acumen](https://theonion.com/ceo-worried-23-year-old-only-into-him-for-his-keen-business-acumen/)
+  - [Night Out More Fun Without Broke Friend](https://theonion.com/night-out-more-fun-without-broke-friend/)
+  - [Object Of Decades-Long Emotional Affair Side-Hugged](https://theonion.com/object-of-decades-long-emotional-affair-side-hugged/)
 - BBC advert by John Le Carre. We believe in listening. [BBC radio advert](https://www.youtube.com/watch?v=rTvh61DctUY)
 
 ### Misc
