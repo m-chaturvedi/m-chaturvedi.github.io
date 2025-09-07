@@ -30,6 +30,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
   - Very funny! [MAGA Voter Assumed Trump Would Only Deport People On List She Mailed To White House](https://theonion.com/maga-voter-assumed-trump-would-only-deport-people-on-list-she-mailed-to-white-house/)
   - [Baby saves affair!](https://theonion.com/baby-saves-affair/)
   - Wisdom: [Temp Hides Fun, Fulfilling Life From Rest Of Office](https://theonion.com/temp-hides-fun-fulfilling-life-from-rest-of-office-1819566599/)
+  - [CEO Worried 23-Year-Old Only Into Him For His Keen Business Acumen](https://theonion.com/ceo-worried-23-year-old-only-into-him-for-his-keen-business-acumen/)
 - BBC advert by John Le Carre. We believe in listening. [BBC radio advert](https://www.youtube.com/watch?v=rTvh61DctUY)
 
 ### Misc
