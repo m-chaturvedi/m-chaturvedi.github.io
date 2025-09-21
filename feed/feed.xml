@@ -5,11 +5,21 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2025-09-14T05:30:00Z</updated>
+  <updated>2025-09-21T02:30:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>The source of knowledge</title>
+    <link href="https://m-chaturvedi.github.io/blog/016/" />
+    <updated>2025-09-21T02:30:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/016/</id>
+    <content type="html">&lt;p&gt;Whether the source of all knowledge is internal or external is what we wish to address in this write-up. We define knowledge as it is defined &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Knowledge&quot;&gt;colloquially&lt;/a&gt;. By external we mean whether knowledge comes from things external to us, like books, teachers, fellow-students, etc. and by internal we mean whether knowledge comes from within us, i.e., as a reaction to the things external to us.&lt;/p&gt;
+&lt;p&gt;Let&#39;s take an example of Newton&#39;s laws of motion. Does one need an external source of knowledge to arrive at the laws of motion?  The answer is no, reproducibility is a property of Science, so one could just observe how things move and arrive at them. One doesn&#39;t need any external source of knowledge, like books or professors, in order to learn Newton&#39;s laws of motion. It&#39;s just because we wish to save time that we have external sources like books, i.e. we wish to not re-invent the wheel, so to speak, and focus on learning new laws of Nature instead of old ones.&lt;/p&gt;
+&lt;p&gt;Similar to the laws of motion, one doesn&#39;t need any external source to learn any of Nature&#39;s laws. One could learn them by observing, questioning, and reflecting.  So, the source of knowledge is internal, not external.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>The Cornell note-taking system and different groups of people</title>
     <link href="https://m-chaturvedi.github.io/blog/015/" />
@@ -196,43 +206,6 @@ How long will it take me to master it.” The teacher’s reply was casual, “T
 The teacher thought for a moment, “20 years.”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;This seems to be true for programming as well. If a programming task needs to be finished quickly because of some underlying reason which comes from &lt;a href=&quot;https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow&quot;&gt;&amp;quot;thinking fast&amp;quot;, instead of &amp;quot;thinking slow&amp;quot;&lt;/a&gt;, it cannot be finished at the expected rate, because one would start creating work by introducing bugs and finishing the task would take more time than it would have if there wasn&#39;t a need of finishing it at speed.  There must be some XKCD for this which I can&#39;t find.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Ghalib on transactional love, futility and ego.</title>
-    <link href="https://m-chaturvedi.github.io/blog/003/" />
-    <updated>2025-06-22T17:04:29Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/003/</id>
-    <content type="html">&lt;h4 id=&quot;ghalib-on-transactional-love&quot;&gt;Ghalib on transactional love:&lt;/h4&gt;
-&lt;i&gt;
-dil us ko pahle hī nāz-o-adā se de baiṭhe &lt;br&gt;
-hameñ dimāġh kahāñ ḥusn ke taqāẓā kā
-&lt;/i&gt;
-&lt;p&gt;Related:&lt;/p&gt;
-&lt;i&gt;
-Phir shauq kar raha hai khareed-dar ki talab,&lt;br&gt;
-Arz-e-mataa-e-akl-o-jaan kiye hue
-&lt;p&gt;Bik jaate hein hum aap mataa-e-sukhan ke saath,&lt;br&gt;
-Lekin ayaar-e-tabaa-e-khareed-daar dekh kar
-&lt;/p&gt;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h4 id=&quot;ghalib-on-futility&quot;&gt;Ghalib on futility:&lt;/h4&gt;
-&lt;i&gt;
-yih jāntā hūñ kih tū aur pāsuḳh-e maktūb &lt;br&gt;
-magar sitam-zadah hūñ żauq-e ḳhāmah-farsā kā
-&lt;/i&gt;
-&lt;p&gt;Reminds:&lt;/p&gt;
-&lt;i&gt;
-Humko maloom hai jannat ki haqiqat lekin,&lt;br&gt;
-Dil ke khush rakhne ko Ghalib ye khayal achcha hai
-&lt;p&gt;Khat likhenge garche matlab kuch na ho,&lt;br&gt;
-Hum to ashiq hein tumhaare naam ke
-&lt;/p&gt;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h4 id=&quot;ghalib-on-ego&quot;&gt;Ghalib on ego:&lt;/h4&gt;
-&lt;i&gt;
-ḳhvud-parastī se rahe bā-ham-digar nā-āshnā&lt;br&gt;
-bekasī merī sharīk āʾīnah terā āshnā
-&lt;/i&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.rekhta.org/ghazals/niyaaz-o-naaz-ke-jhagde-mitaae-jaate-hain-jigar-moradabadi-ghazals&quot;&gt;Rekhta page&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
