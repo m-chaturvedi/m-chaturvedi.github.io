@@ -5,11 +5,21 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2025-09-21T02:30:00Z</updated>
+  <updated>2025-09-22T02:30:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>How the origin is everything is from its complement</title>
+    <link href="https://m-chaturvedi.github.io/blog/017/" />
+    <updated>2025-09-22T02:30:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/017/</id>
+    <content type="html">&lt;p&gt;In order for any idea or material thing to be analyzed, i.e. understood with the mind, there has to be an abstract representation of it.  And as soon as an abstraction is created in our minds, there has to be a complement of the abstraction, in order for the abstraction to exist.&lt;/p&gt;
+&lt;p&gt;For example, let&#39;s say we want to analyze a pencil.  We will first create an abstract representation of the pencil in our minds, this can vary from person to person, but they have an abstraction for the pencil in their minds, nonetheless.  When that abstraction matches with an object, they call it a pencil.  Now, the complement of the pencil is the absence of pencil, there has to exist at least one abstract representation of the absence of the pencil.  Maybe it is the pencil-sized emptiness in the pencil box, maybe it&#39;s the empty space on the desk.  But there has to exist a representation of the absence of the pencil in our minds in order for it to detect a pencil.  In other words, the origin of a pencil&#39;s presence is from its absence, and vice versa.&lt;/p&gt;
+&lt;p&gt;We can replace &#39;pencil&#39; in the above example, with any material thing or idea, even the whole reality we perceive with our minds.  The whole reality we perceive with our minds needs to have a complement, which makes us perceive the reality as it is.  Perhaps the force which doesn&#39;t let us understand the complement of reality is what is &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Maya_(religion)&quot;&gt;spoken about in Advaita Vedanta&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>The source of knowledge</title>
     <link href="https://m-chaturvedi.github.io/blog/016/" />
@@ -191,21 +201,6 @@ one is always doing repetitive work and does not have any free time to reflect,
 they will not be creative. So, I think &amp;quot;the problem with India&amp;quot; is that the
 Indian companies don&#39;t know how to nurture or leverage creativity, and have a
 wrong model of measuring productivity.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>&#39;Working very hard&#39; and programming</title>
-    <link href="https://m-chaturvedi.github.io/blog/004/" />
-    <updated>2025-06-27T00:00:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/004/</id>
-    <content type="html">&lt;p&gt;I came across this Zen story, &lt;a href=&quot;https://sofoarchon.com/10-short-zen-stories/&quot;&gt;here&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A martial arts student went to his teacher and said earnestly, “I am devoted to studying your martial system.
-How long will it take me to master it.” The teacher’s reply was casual, “Ten years.” Impatiently, the student answered,
-“But I want to master it faster than that. I will work very hard. I will practice every day, ten or more hours a day if I have to. How long will it take then?”
-The teacher thought for a moment, “20 years.”&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;This seems to be true for programming as well. If a programming task needs to be finished quickly because of some underlying reason which comes from &lt;a href=&quot;https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow&quot;&gt;&amp;quot;thinking fast&amp;quot;, instead of &amp;quot;thinking slow&amp;quot;&lt;/a&gt;, it cannot be finished at the expected rate, because one would start creating work by introducing bugs and finishing the task would take more time than it would have if there wasn&#39;t a need of finishing it at speed.  There must be some XKCD for this which I can&#39;t find.&lt;/p&gt;
 </content>
   </entry>
 </feed>
