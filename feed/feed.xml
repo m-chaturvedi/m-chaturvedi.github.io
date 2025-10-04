@@ -5,11 +5,30 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2025-09-22T02:30:00Z</updated>
+  <updated>2025-10-04T08:00:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>How to show work&#39;s getting done without doing any: Workplace Learnings of Sweden for Make Benefit other Glorious Nations</title>
+    <link href="https://m-chaturvedi.github.io/blog/018/" />
+    <updated>2025-10-04T08:00:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/018/</id>
+    <content type="html">&lt;p&gt;The following is what I learned while working in Sweden about how to show that you&#39;re working a lot without actually doing any work.  Credit where credit is due, I met a bunch of scientists there who taught me the effectiveness of these lessons, inadvertently, perhaps.  They used these to great effect for many years!&lt;/p&gt;
+&lt;p&gt;Supplemental reading: Any good book about cognitive biases.  Recommended one: &lt;a href=&quot;https://youarenotsosmart.com/&quot;&gt;You Are Not So Smart&lt;/a&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The Steve Jobs method: Always do all the announcements.  Most people think the person who does the announcements has done all the work.  This is so common that &lt;a href=&quot;https://youtu.be/FmbwR9J6-Yw?si=iRgVIgPaNmzjMR5Q&quot;&gt;Bill Burr even has a joke on this&lt;/a&gt;. It&#39;s like &#39;Kill the messenger&#39;, except the sentiment is the opposite.&lt;/li&gt;
+&lt;li&gt;Use fancy words: Invent fancy words to describe what you&#39;re doing.  Don&#39;t use commonly used words.  This is a common practice in industries like management, finance, etc., but can be used in software engineering as well.  The benefits are twofold, one is that there is an automatic formation of a guild which knows the meaning of those words, the second is that the people hearing those words feel like they don&#39;t know what you&#39;re talking about.  You need to find some other people who don&#39;t do any work to form the guild for this one, though.&lt;/li&gt;
+&lt;li&gt;Find experts and gaslight them: This is a very important strategy in order to not let everyone know that you&#39;re doing little work.  If the people who actually do the work come into the limelight your status would be revealed.  This is best done in groups, a good strategy is to isolate the people actually doing the work, and then try to gaslight them so that they don&#39;t notice your lack of work-ethic.&lt;/li&gt;
+&lt;li&gt;Address people never the problem:  This is a great strategy to stymie any discussion, and exploiting personal weaknesses of others&#39; to your advantage.  If there&#39;s a problem being discussed never do that in a neutral and objective way, always be subjective, this is especially useful when you&#39;re being assigned tasks.  Believe in the &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Straw_man&quot;&gt;robustness of the Straw Man&lt;/a&gt;!  This has multiple benefits, one is that the discussion turns emotional, another is that it gives a chance to attack people who actually work personally.&lt;/li&gt;
+&lt;li&gt;Always speak a lot in meetings:  Most people think that people doing the speaking are working a lot.  Be very attentive and vocal in meetings, this creates a bias in the minds of the people that don&#39;t actually know what&#39;s happening in team. Don&#39;t forget to speak loudly, speak fast and speak over others.&lt;/li&gt;
+&lt;li&gt;Present and remind others of your work repeatedly: There are a few nuances to this strategy.  First of all, always prioritize demos and presentations over actually work.  Secondly, always overlap already done work with new work in presentations, creating more volume everytime.  Thirdly, try to remind of your work repeatedly.  All these give an impression of you having done more work than you actually have.&lt;/li&gt;
+&lt;li&gt;Use the workspace to your advantage: Stack books, strew papers, equipment, wires, etc., on and around your desk.  Stick post-it notes, cheat sheets, technical papers on the desk&#39;s walls.  This again gives the impression of productivity and concentration-induced absent-mindedness.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;All in all, cognitive biases are your friend, starting from the CEO to workers in the lowest rungs, exploiting cognitive biases is something that needs to be learned to thrive in the workplace!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>How the origin of everything is from its complement</title>
     <link href="https://m-chaturvedi.github.io/blog/017/" />
@@ -168,39 +187,6 @@ cohort is tested. Some countries used much larger samples than required
 to allow comparisons between regions.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Now, because of the representation by five thousand students, the exam measures the average quality of education in schools, which I believe is why India is in the bottom 2 percent.  There is a lot of talk about the IIT alumni doing well in academics outside India, but they do not represent the average education in India which exams like PISA test.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>&quot;The problem with India&quot;</title>
-    <link href="https://m-chaturvedi.github.io/blog/005/" />
-    <updated>2025-06-28T13:58:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/005/</id>
-    <content type="html">&lt;p&gt;A former classmate wrote on LinkedIn:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The problem with India is that for every one guy  working 8 hours a day,
-there are 10 willing to do 16 hours and it becomes the norm.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;While I agree with what he said, his observation can be analyzed further.  He&#39;s
-assuming that the only way to measure productivity is the number of hours
-invested.&lt;/p&gt;
-&lt;p&gt;In the age of machines this model of measuring productivity doesn&#39;t hold.  For
-example, the sum total of the number of hours invested by all the employees to
-create the first iteration of Google search would be much less than the sum
-total of the time saved by the them (and the users) to search websites they
-were looking for using Google search. The creation of a search engine would
-lead to an increase in productivity in the long-term. This is true for many
-software tools.&lt;/p&gt;
-&lt;p&gt;Another example that comes to mind is that of, vim. Very creative software
-engineers who created tools like vim ended up saving millions of hours in text
-editing for themselves and for other engineers.&lt;/p&gt;
-&lt;p&gt;My former-batchmate&#39;s model of estimating productivity doesn&#39;t take into
-account the amount of time saved by working for fewer hours but doing creative
-work, which ends up saving a lot of time in the future.&lt;/p&gt;
-&lt;p&gt;The other point to keep in mind is that the cause of creativity is boredom.  If
-one is always doing repetitive work and does not have any free time to reflect,
-they will not be creative. So, I think &amp;quot;the problem with India&amp;quot; is that the
-Indian companies don&#39;t know how to nurture or leverage creativity, and have a
-wrong model of measuring productivity.&lt;/p&gt;
 </content>
   </entry>
 </feed>
