@@ -5,11 +5,40 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2025-10-04T08:00:00Z</updated>
+  <updated>2025-10-13T04:15:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>In praise of the Unix Philosophy - 1</title>
+    <link href="https://m-chaturvedi.github.io/blog/019/" />
+    <updated>2025-10-13T04:15:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/019/</id>
+    <content type="html">&lt;p&gt;The philosophy of Unix has elements of other timeless philosophies. One of them is that its principles match with the
+principles of design of the underlying elements. That is, the software design principles of the Unix philosophy match
+with the philosophy with which the underlying hardware is built.&lt;/p&gt;
+&lt;p&gt;If we observe the elements of the logic design of chips that run the software, we observe that one of the core principles on which
+the chips are designed is that they take a lot of very simple elements and then glue them together in creative ways. That is,
+it is the gluing that is difficult to understand, not the elements themselves. In the case of chips, the elements are the logic gates,
+and by using a large number of them in creative ways, the logic design of chips is done. The logic gates themselves are, of course,
+very easy to understand.&lt;/p&gt;
+&lt;p&gt;Let’s first observe the philosophy of logic gates:
+1.	They do very simple computations. The AND, OR, and NOT gates all do very simple-to-understand computations.
+2.	They are easy to combine. It’s easy to combine logic gates to create complicated structures.
+3.	Their inputs and outputs are simple to understand, i.e., the substructures of the complicated structures can be debugged.
+They have at most two inputs and one output, all 0 or 1.&lt;/p&gt;
+&lt;p&gt;Now we can see how they match with the tenets of the Unix philosophy:
+1.	Do one thing and do it well: Similar to the gates, i.e., the software tools themselves shouldn’t be doing too many things.
+We can observe this clearly in GNU utilities.
+2.	Programs should work together: Bash is the underlying glue in Unix. Powerful utilities like pipes let programmers
+combine the software tools in creative ways to accomplish powerful computational tasks.
+3.	Text should be the universal interface of the programs: This, just like logic gates, makes debugging substructures easier.
+This is easy to see while debugging a Bash script. Since the inputs and outputs can be printed as text on the terminal,
+having text as the interface makes debugging easier.&lt;/p&gt;
+&lt;p&gt;We see that there some similarities in the two philosophies.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>How to Show Work’s Getting Done Without Doing Any: Workplace Learnings of Sweden for Make Benefit Other Glorious Nations</title>
     <link href="https://m-chaturvedi.github.io/blog/018/" />
@@ -151,42 +180,6 @@ upon.&lt;/p&gt;
 &lt;p&gt;In other words, one should not need hear anything in order to speak the language perfectly.  Then it would be the language of the Gods, or a &amp;quot;perfect langauge&amp;quot;.&lt;/p&gt;
 &lt;p&gt;How will the idea of &amp;quot;something&amp;quot;, X, existing in time t1 be communicated across to time t2 where it doesn&#39;t exist?  There are two points here, one is that X, just like in Math, needs to be defined using the language before being used so that X is freed-from the contextual knowledge at t1. And if X doesn&#39;t need any context-freeing then it represents an idea that is timeless.&lt;/p&gt;
 &lt;p&gt;So, approximately, the whole point of the language is that it should be free from &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Thinking,_Fast_and_Slow&quot;&gt;System 1&lt;/a&gt; and should only need System 2 to understand and create it.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Why is India not participating in PISA?</title>
-    <link href="https://m-chaturvedi.github.io/blog/006/" />
-    <updated>2025-06-28T15:30:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/006/</id>
-    <content type="html">&lt;p&gt;India has not been participating in &lt;a href=&quot;https://www.oecd.org/en/about/programmes/pisa/pisa-participants.html&quot;&gt;PISA since 2009&lt;/a&gt;.  Here&#39;s an archived India Today&#39;s report on that matter:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://web.archive.org/web/20250324105225/https://www.indiatoday.in/education-today/news/story/india-may-drop-out-of-international-student-assessment-pisa-again-2692495-2025-03-12&quot;&gt;India may drop out of international student assessment PISA again - India Today&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;So, what&#39;s PISA?  According to their website:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;PISA is the OECD&#39;s Programme for International Student Assessment. PISA
-measures 15-year-olds’ ability to use their reading, mathematics and science
-knowledge and skills to meet real-life challenges.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;After being ranked 72nd out of 73 countries in 2009, beating Kazakhstan with &amp;quot;great success&amp;quot;, India stopped participating in PISA.  Indian officials cited two main reasons for the withdrawal:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&amp;quot;cultural disconnect&amp;quot;: Probably meaning that India has a different pedagogical philosophy than the &amp;quot;West&amp;quot;.  China was ranked 1 in 2009, BTW.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Misinformation regarding the language of examination:  In &#39;09 students thought that the only language they could take the exam was English.  So they didn&#39;t perform well.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In 2019, India was to reengage with PISA, and had decided to take the 2021 test.  The officials made sure that the misinformation regarding the language is clarified, they also chose a few schools that would participate (generally the schools are chosen from a list of eligible schools by PISA&#39;s organizing body), and also made sure that a few questions about India are included in the exams so that the students could improve their performance.&lt;/p&gt;
-&lt;p&gt;However, Corona hit in 2021 and it was decided to reengage in 2025.  But now it looks like it may never happen.&lt;/p&gt;
-&lt;p&gt;So, why would a country which is never in the bottom 2 percentile in any other international exams like the International Math/Physics/Chemistry Olympiads, GRE, TOEFL, etc. perform differently in PISA?  There is a &amp;quot;cultural disconnect&amp;quot; in these exams as well, right?&lt;/p&gt;
-&lt;p&gt;Here&#39;s my hypothesis:&lt;/p&gt;
-&lt;p&gt;All the other international exams mentioned are taken by candidates who specially prepare for those examinations. In Olympiads a team of 6 highly trained students represents a country, and GRE, TOEFL are taken by individuals who prepare for them specially.  In contrast, for the PISA exam however, each country draws a sample (randomly?) of 5000 students, as mentioned on the wiki, &lt;a href=&quot;https://en.wikipedia.org/wiki/Programme_for_International_Student_Assessment#Sampling&quot;&gt;Programme for International Student Assessment - Wikipedia&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;To fulfill OECD requirements, each country must draw a sample of at least 5,000 students. In small countries like &lt;a href=&quot;https://en.wikipedia.org/wiki/Iceland&quot; title=&quot;Iceland&quot;&gt;Iceland&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Luxembourg&quot; title=&quot;Luxembourg&quot;&gt;Luxembourg&lt;/a&gt;,
-where there are fewer than 5,000 students per year, an entire age
-cohort is tested. Some countries used much larger samples than required
-to allow comparisons between regions.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Now, because of the representation by five thousand students, the exam measures the average quality of education in schools, which I believe is why India is in the bottom 2 percent.  There is a lot of talk about the IIT alumni doing well in academics outside India, but they do not represent the average education in India which exams like PISA test.&lt;/p&gt;
 </content>
   </entry>
 </feed>
