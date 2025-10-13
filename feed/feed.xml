@@ -23,19 +23,23 @@ the chips are designed is that they take a lot of very simple elements and then 
 it is the gluing that is difficult to understand, not the elements themselves. In the case of chips, the elements are the logic gates,
 and by using a large number of them in creative ways, the logic design of chips is done. The logic gates themselves are, of course,
 very easy to understand.&lt;/p&gt;
-&lt;p&gt;Let’s first observe the philosophy of logic gates:
-1.	They do very simple computations. The AND, OR, and NOT gates all do very simple-to-understand computations.
-2.	They are easy to combine. It’s easy to combine logic gates to create complicated structures.
-3.	Their inputs and outputs are simple to understand, i.e., the substructures of the complicated structures can be debugged.
-They have at most two inputs and one output, all 0 or 1.&lt;/p&gt;
-&lt;p&gt;Now we can see how they match with the tenets of the Unix philosophy:
-1.	Do one thing and do it well: Similar to the gates, i.e., the software tools themselves shouldn’t be doing too many things.
-We can observe this clearly in GNU utilities.
-2.	Programs should work together: Bash is the underlying glue in Unix. Powerful utilities like pipes let programmers
-combine the software tools in creative ways to accomplish powerful computational tasks.
-3.	Text should be the universal interface of the programs: This, just like logic gates, makes debugging substructures easier.
+&lt;p&gt;Let’s first observe the philosophy of logic gates:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;They do very simple computations. The AND, OR, and NOT gates all do very simple-to-understand computations.&lt;/li&gt;
+&lt;li&gt;They are easy to combine. It’s easy to combine logic gates to create complicated structures.&lt;/li&gt;
+&lt;li&gt;Their inputs and outputs are simple to understand, i.e., the substructures of the complicated structures can be debugged.
+They have at most two inputs and one output, all 0 or 1.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Now we can see how they match with the tenets of the Unix philosophy:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Do one thing and do it well&lt;/strong&gt;: Similar to the gates, i.e., the software tools themselves shouldn’t be doing too many things.
+We can observe this clearly in GNU utilities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programs should work together&lt;/strong&gt;: Bash is the underlying glue in Unix. Powerful utilities like pipes let programmers
+combine the software tools in creative ways to accomplish powerful computational tasks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Text should be the universal interface of the programs&lt;/strong&gt;: This, just like logic gates, makes debugging substructures easier.
 This is easy to see while debugging a Bash script. Since the inputs and outputs can be printed as text on the terminal,
-having text as the interface makes debugging easier.&lt;/p&gt;
+having text as the interface makes debugging easier.&lt;/li&gt;
+&lt;/ol&gt;
 &lt;p&gt;We see that there some similarities in the two philosophies.&lt;/p&gt;
 </content>
   </entry>
