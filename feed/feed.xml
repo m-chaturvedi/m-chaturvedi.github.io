@@ -34,7 +34,7 @@ They have at most two inputs and one output, all 0 or 1.&lt;/li&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Do one thing and do it well&lt;/strong&gt;: Similar to the gates, i.e., the software tools themselves shouldn’t be doing too many things.
 We can observe this clearly in GNU utilities.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Programs should work together&lt;/strong&gt;: Bash is the underlying glue in Unix. Powerful utilities like pipes let programmers
+&lt;li&gt;&lt;strong&gt;Programs should work together&lt;/strong&gt;: Shell is the underlying glue in Unix. Powerful utilities like pipes let programmers
 combine the software tools in creative ways to accomplish powerful computational tasks.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Text should be the universal interface of the programs&lt;/strong&gt;: This, just like logic gates, makes debugging substructures easier.
 This is easy to see while debugging a Bash script. Since the inputs and outputs can be printed as text on the terminal,
