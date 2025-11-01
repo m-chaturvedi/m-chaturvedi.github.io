@@ -5,11 +5,23 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2025-10-13T04:15:00Z</updated>
+  <updated>2025-11-01T21:33:46Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title></title>
+    <link href="https://m-chaturvedi.github.io/blog/020/" />
+    <updated>2025-11-01T21:33:46Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/020/</id>
+    <content type="html">&lt;p&gt;On Questioning&lt;/p&gt;
+&lt;p&gt;In this post, we would try to understand how to ask a question. We believe that in order to know the answer to any question, we need to understand how to ask a question. Like we discussed in the previous post, when we analyze something, i.e., use only our minds to interact with an idea, the origin of everything is in its complement; similarly, the origin of an answer is in its complement, that is, the question.&lt;/p&gt;
+&lt;p&gt;Often, when we ask a question, we are already expecting a certain answer. Like when we ask if it&#39;s going to rain tonight, we already have in our subconscious the current season, the climatic patterns of the place we are living in, etc., which make us biased towards a specific answer. A simple way to observe this is by trying to guess an answer to the question, with the same consciousness in which the question was asked. If, in our minds, there&#39;s a certain answer that we expect, then we have not actually asked the question if it&#39;s going to rain; we actually have asked whether our guess is correct or not, because our mind wasn&#39;t totally neutral when asking the question.&lt;/p&gt;
+&lt;p&gt;Since we had bias in our minds, we haven&#39;t yet arrived at the origin of the answer; that is, we haven&#39;t really asked the question whether it&#39;s going to rain. Until we can ask a question in a state of mind that is free from all bias, Nature will not tell us the answer to the question. And as soon as we ask the question in an unbiased way, we will have a complement to the question, which is the answer, created in our minds.&lt;/p&gt;
+&lt;p&gt;This is a common mistake we make when asking questions: we don&#39;t ask them in a neutral way, and we are prone to all manner of cognitive biases.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>In praise of the Unix Philosophy - 1</title>
     <link href="https://m-chaturvedi.github.io/blog/019/" />
@@ -171,19 +183,6 @@ upon.&lt;/p&gt;
 &lt;p&gt;I found it a pretty useful way to take notes and also a good way to think about anything new that we want to do.  Before doing something, we can ask ourselves why we are doing it, and after doing it we can reflect on our actions and think about what we have done and how it fits in the overall scheme of things.&lt;/p&gt;
 &lt;p&gt;With this note-taking method, we understand an idea in the notes from three points of view.  The idea as expressed by the teacher which we note in the main division of the page, our own understanding of what questions does the conveyed idea answers and our reflection regarding how the matter discussed in class fits in the overall scheme of the course.&lt;/p&gt;
 &lt;p&gt;Also, note that since English is written left to right and top to bottom, the left margin is chosen to write questions.  IMO, this is done since the questions answered by the notes are generally pretty short and the questions can be horizontally aligned with the notes in the main-divison so that it is contextually clear which questions are answered by which parts of the notes.  The bottom margin is left for the summary because it relates to the whole page and how it fits in the context of notes on the other pages.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>&quot;A perfect language&quot;</title>
-    <link href="https://m-chaturvedi.github.io/blog/008/" />
-    <updated>2025-07-03T08:00:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/008/</id>
-    <content type="html">&lt;p&gt;How would a &amp;quot;perfect language&amp;quot; be created? By &amp;quot;perfect&amp;quot;, I mean a language that is independent of time and space. By independent of time, I mean that it cannot be refined further, i.e. it can be understood across time and by independent of space I mean the pronunciation can only change due to human error, not due to people having different &amp;quot;accents&amp;quot;.&lt;/p&gt;
-&lt;p&gt;Most natural languages are learnt by hearing others speak.  Like when a baby is born, the parents teach it the language it hears from them. However, a &amp;quot;perfect language&amp;quot; would not need a speaker to learn from.  Note that it can be learned from a speaker as well, just that it wouldn&#39;t necessarily &lt;em&gt;need&lt;/em&gt; a speaker to learn from.  It can be learned without hearing any sound whatsoever. It would be like how Math is done, i.e. it would be created and can be learned in silence, not how English and other common languages were created and are learned using words that are spoken in certain areas or by certain people.&lt;/p&gt;
-&lt;p&gt;Just like there is an objective method of deriving Math results from silence by anyone, there must be some methods of deriving sounds for specific ideas by anyone using those rules from the absence of sound, i.e. silence.&lt;/p&gt;
-&lt;p&gt;In other words, one should not need hear anything in order to speak the language perfectly.  Then it would be the language of the Gods, or a &amp;quot;perfect langauge&amp;quot;.&lt;/p&gt;
-&lt;p&gt;How will the idea of &amp;quot;something&amp;quot;, X, existing in time t1 be communicated across to time t2 where it doesn&#39;t exist?  There are two points here, one is that X, just like in Math, needs to be defined using the language before being used so that X is freed-from the contextual knowledge at t1. And if X doesn&#39;t need any context-freeing then it represents an idea that is timeless.&lt;/p&gt;
-&lt;p&gt;So, approximately, the whole point of the language is that it should be free from &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Thinking,_Fast_and_Slow&quot;&gt;System 1&lt;/a&gt; and should only need System 2 to understand and create it.&lt;/p&gt;
 </content>
   </entry>
 </feed>
