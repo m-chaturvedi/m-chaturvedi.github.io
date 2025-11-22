@@ -5,11 +5,23 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2025-11-14T04:18:30Z</updated>
+  <updated>2025-11-22T17:00:30Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>Neti-neti as a propaganda removal tool</title>
+    <link href="https://m-chaturvedi.github.io/blog/023/" />
+    <updated>2025-11-22T17:00:30Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/023/</id>
+    <content type="html">&lt;p&gt;In this post we discuss how a very old yoga practice called ‘Neti-Neti’ can be used to see through propaganda. Now, neti-neti, ‘not this–not that,’ is just a negation technique where you keep discarding propaganda in order to arrive at the Absolute truth. What it essentially does is create a counter-context for the context in which something is said, thus revealing the truth in the Absolute context. This is a commonly used technique in math proofs, “proof by contradiction.”&lt;/p&gt;
+&lt;p&gt;For example: When a CEO says that starting a company is not primarily motivated by earning money, a counter-question using neti-neti could be: if they were earning zero money, would they be doing what they are doing? The most likely answer would be no, because they wouldn’t be spending their own money on day-to-day expenses while working on the company’s work. So, they are doing it for money but they don’t want to accept it.&lt;/p&gt;
+&lt;p&gt;They might have to qualify their statement to say that money is not the main motivator but is a motivator nonetheless. This could be questioned again by asking them to give a situation in which they would not choose money when choosing between money and another entity, X. Here X could be morality, usefulness of the product, etc.&lt;/p&gt;
+&lt;p&gt;If there’s an entity X that they quote, they can be questioned again by asking them if another company which chose money instead of X wouldn’t be more successful than their company due to how the laws of capitalism work. That is, the more profit-oriented the decisions, the more profitable a company would be, since moral decisions are never rewarded by themselves but only when their intent is to make profit …&lt;/p&gt;
+&lt;p&gt;And so on. The idea is that you assume what’s being said is incorrect and try to arrive at a negation of the self-evident truth or a law derived from the self-evident truth, and if you can’t, then what’s being said is not correct in the Absolute context. What happens using this technique is that you remove all the propaganda behind what’s being said and can see if it is supported by a self-evident truth.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>How to generate profits by exploiting human instincts?</title>
     <link href="https://m-chaturvedi.github.io/blog/022/" />
@@ -185,45 +197,6 @@ having text as the interface makes debugging easier.&lt;/li&gt;
 &lt;p&gt;Now CEOs have to constantly cover the fact that they created a product because they can make a lot of money with the wrapper that the product is actually useful for society and customers. The fact that they are doing it for the money is not something that they will accept readily even when explicitly pointed out, it will be only known via the context.&lt;/p&gt;
 &lt;p&gt;They will always have a complete and total belief in the product that they are selling, even if it&#39;s useless. They bullshit with total confidence their customers and listeners that it&#39;s not the fact that this product will make them profit that is the driving force but the fact that they believe that this product is useful for the customers.  They would look down upon their competition, however good that is, find faults in the competition&#39;s products and customers, make up personal stories and use other cognitive biases to promote their product.&lt;/p&gt;
 &lt;p&gt;This style of bullshiting is close to how &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Maya_(religion)&quot;&gt;Nature decieves us as well&lt;/a&gt;, that deserves a long write-up, though.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>What the AI will not replace?</title>
-    <link href="https://m-chaturvedi.github.io/blog/011/" />
-    <updated>2025-09-01T16:30:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/011/</id>
-    <content type="html">&lt;p&gt;A discussion regarding what AI will not replace in software engineering led to
-this post. AI cannot replace what it doesn&#39;t have, which is self-consciousness.
-The mental manifestation of self-consciousness is reflection. And the physical
-manifestation of it is the action which is taken after reflection (this, in my
-opinion, is what is &#39;dharma&#39;).&lt;/p&gt;
-&lt;p&gt;&#39;Dharma&#39; may mean different things in different fields. &#39;Dharma&#39; in the context of
-software engineering is basically what &lt;a href=&quot;https://en.wikipedia.org/wiki/Douglas_McIlroy#Views_on_computing&quot;&gt;Dr. McIlroy had refered to as &#39;negative coding&#39;&lt;/a&gt;.
-It&#39;s the process of removing code instead of adding it making the software simpler. (My own attempt &lt;a href=&quot;https://github.com/m-chaturvedi/undupes/&quot;&gt;at negative coding at design level.&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&#39;Dharma&#39; process can be explained very easily. If an action is taken without
-reflection, it&#39;s not dharma, unless the instincts which are the cause of action
-have been trained with the process which is created with reflection. This
-process of training the instincts is commonly referred to as &#39;culture&#39;. So,
-many a time, during code reviews, the software engineers would instinctually
-know that a piece of code has problems. This is because of the &#39;culture&#39;, i.e.,
-they have gone through so much code that they have refined their instincts with
-the culture of software engineering &#39;dharma&#39;, so even without consciously
-reflecting, they know that the piece of code that they are reviewing has a
-problem.&lt;/p&gt;
-&lt;p&gt;AI is trained with the latter method, that is, its &#39;instincts&#39; are being
-refined to the extent that it starts doing things which come out of a lot of
-reflection. So, it&#39;s trying to replicate the dharma of software engineering.
-What it lacks is self-consciousness. What this means is that, unlike humans who
-can remove a piece of code from what they wrote after reflecting on it, AI
-cannot remove a piece of code from its own programming. That is, AI cannot do
-negative coding on the code it created without interacting with any external
-agents other than the code and its own programming.&lt;/p&gt;
-&lt;p&gt;This can be said in another way. Humans can evolve by just meditating like the
-Buddha; a piece of program cannot just sit and evolve itself. Evolution is like
-&#39;negative coding&#39;. And the final destination of &#39;negative coding&#39; is zeroness,
-which, unlike the Buddha, computers cannot experience, or reach, or meditate
-upon.&lt;/p&gt;
-&lt;p&gt;Typos fixed using ChatGPT.&lt;/p&gt;
 </content>
   </entry>
 </feed>
