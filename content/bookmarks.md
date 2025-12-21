@@ -33,6 +33,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
   - [CEO Worried 23-Year-Old Only Into Him For His Keen Business Acumen](https://theonion.com/ceo-worried-23-year-old-only-into-him-for-his-keen-business-acumen/)
   - [Night Out More Fun Without Broke Friend](https://theonion.com/night-out-more-fun-without-broke-friend/)
   - [Object Of Decades-Long Emotional Affair Side-Hugged](https://theonion.com/object-of-decades-long-emotional-affair-side-hugged/)
+  - [Community Does Jack Shit To Make Christmas Better For Town’s Second-Poorest Family](https://theonion.com/community-does-jack-shit-to-make-christmas-better-for-towns-second-poorest-family/)
 - BBC advert by John Le Carre. We believe in listening. [BBC radio advert](https://www.youtube.com/watch?v=rTvh61DctUY)
 
 ### Misc
