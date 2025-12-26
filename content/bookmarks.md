@@ -36,6 +36,9 @@ const title = "Mmanu Chaturvedi: Bookmarks";
   - [Community Does Jack Shit To Make Christmas Better For Town’s Second-Poorest Family](https://theonion.com/community-does-jack-shit-to-make-christmas-better-for-towns-second-poorest-family/)
 - BBC advert by John Le Carre. We believe in listening. [BBC radio advert](https://www.youtube.com/watch?v=rTvh61DctUY)
 
+### Music
+- Great music, wonderfully sung, thoughtful lyrics: [It hurts] (https://youtu.be/9lgNZi2m92I?si=k5fTar9pGw6Il97r)
+
 ### Misc
 
 - [The electric typewriter.  Long-form article recommendation.](https://tetw.org/)
