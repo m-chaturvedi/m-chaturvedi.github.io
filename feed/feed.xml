@@ -5,11 +5,49 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-02-09T17:00:00Z</updated>
+  <updated>2026-02-17T01:50:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>Chomsky on journalistic ethics</title>
+    <link href="https://m-chaturvedi.github.io/blog/027/" />
+    <updated>2026-02-17T01:50:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/027/</id>
+    <content type="html">&lt;p&gt;In this post, we put forth our understanding of Chomsky’s opinion on
+journalistic ethics from an interview with Andrew Marr. In the following clip
+of an interview with Marr (&lt;a href=&quot;https://archive.org/details/noam-chomsky-1996-02-14-vs-andrew-marr-of-the-big-idea-improved-sound&quot;&gt;full interview on
+archive.org&lt;/a&gt;):&lt;/p&gt;
+&lt;div id=&quot;VBN7zSPrJ-0&quot; class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed/VBN7zSPrJ-0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;Chomsky critiques the journalistic ethics by saying that Marr would not be
+placed where he is unless he believed in certain ideas that the institutions he
+was affiliated with filter for. This can be seen in another way, like we have
+discussed in &lt;a href=&quot;https://m-chaturvedi.github.io/blog/021/&quot;&gt;another post&lt;/a&gt;, on how
+groups exert power: all institutions exert power on individuals by setting a
+context within which the members operate, just as Nature sets context via the
+forces of gravity, electromagnetism, etc., and exerts forces that lead to laws
+which we call the laws of Nature. Living beings that are a part of Nature must
+abide by these laws in order to survive.&lt;/p&gt;
+&lt;p&gt;So, institutions have rules, stated or unstated, which must be followed by the
+members. If someone identifies these unspoken rules from the context and starts
+questioning or defying them, they soon start being seen as not part of the
+group, and their ideas are ignored. They are seen as a rogue agent and are
+often mocked first, at least lightly, to conform. If they don’t conform, they
+are punished if there are laws of punishment within the group; if not, they are
+evicted from the group. We can see the same phenomenon in Nature: if someone
+does not conform to the laws of Nature, they either die or don’t procreate,
+similar to what happens in a group.&lt;/p&gt;
+&lt;p&gt;What Chomsky is saying is that in order to propagate their ideas without too
+much trouble, many institutions nip this problem in the bud and don’t let in
+members who have traits that might lead to questioning or defying the values
+that institutions would like to propagate.&lt;/p&gt;
+&lt;p&gt;Furthermore, we believe that if an institution tries to imitate Nature as
+closely as possible, the acceptance criteria would be derived from the laws of
+Nature, and eviction from that group would coincide with eviction from Nature,
+i.e., with death.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>How to use MS Teams to remotely monitor your employees!</title>
     <link href="https://m-chaturvedi.github.io/blog/026/" />
@@ -219,16 +257,6 @@ having text as the interface makes debugging easier.&lt;/li&gt;
 &lt;li&gt;Use the workspace to your advantage: Stack books, strew papers, equipment, wires, etc., on and around your desk.  Stick post-it notes, cheat sheets, technical papers on the desk&#39;s walls.  This again gives the impression of productivity and concentration-induced absent-mindedness.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;All in all, cognitive biases are your friend, starting from the CEO to the workers in the lowest rungs, exploiting cognitive biases is something that needs to be learned by all to thrive in the workplace!&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How the origin of everything is from its complement</title>
-    <link href="https://m-chaturvedi.github.io/blog/017/" />
-    <updated>2025-09-22T02:30:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/017/</id>
-    <content type="html">&lt;p&gt;In order for any idea or material thing to be analyzed, i.e. understood with the mind, there has to be an abstract representation of it.  And as soon as an abstraction is created in our minds, there has to be a complement of the abstraction, in order for the abstraction to exist.&lt;/p&gt;
-&lt;p&gt;For example, let&#39;s say we want to analyze a pencil.  We will first create an abstract representation of the pencil in our minds, this can vary from person to person, but they have an abstraction for the pencil in their minds, nonetheless.  When that abstraction matches with an object, they call it a pencil.  Now, the complement of the pencil is the absence of pencil, there has to exist at least one abstract representation of the absence of the pencil.  Maybe it is the pencil-sized emptiness in the pencil box, maybe it&#39;s the empty space on the desk.  But there has to exist a representation of the absence of the pencil in our minds in order for it to detect a pencil.  In other words, the origin of a pencil&#39;s presence is from its absence, and vice versa.&lt;/p&gt;
-&lt;p&gt;We can replace &#39;pencil&#39; in the above example, with any material thing or idea, even the whole reality we perceive with our minds.  The whole reality we perceive with our minds needs to have a complement, which makes us perceive the reality as it is.  Perhaps the force which doesn&#39;t let us understand the complement of reality is what is &lt;a href=&quot;https://en.m.wikipedia.org/wiki/Maya_(religion)&quot;&gt;spoken about in Advaita Vedanta&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
