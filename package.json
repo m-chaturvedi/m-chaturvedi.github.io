@@ -61,6 +61,7 @@
 		"@11ty/import": "^1.0.15",
 		"@tailwindcss/cli": "^4.1.10",
 		"@zachleat/heading-anchors": "^1.0.3",
+		"eleventy-plugin-embed-everything": "^1.21.1",
 		"markdown-it": "^14.1.0",
 		"markdown-retro": "^0.0.1"
 	}
