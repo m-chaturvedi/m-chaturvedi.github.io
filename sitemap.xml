@@ -122,6 +122,11 @@
 	</url>
 	
 	<url>
+		<loc>https://m-chaturvedi.github.io/blog/026/</loc>
+		<lastmod>2026-02-09</lastmod>
+	</url>
+	
+	<url>
 		<loc>https://m-chaturvedi.github.io/about/</loc>
 		<lastmod>2026-02-17</lastmod>
 	</url>
@@ -154,10 +159,5 @@
 	<url>
 		<loc>https://m-chaturvedi.github.io/feed/feed.xml</loc>
 		<lastmod>2026-02-17</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://m-chaturvedi.github.io/blog/026/</loc>
-		<lastmod>2026-02-19</lastmod>
 	</url>
 </urlset>
