@@ -38,6 +38,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 
 ### Music
 - Great music, wonderfully sung, thoughtful lyrics: [It hurts](https://youtu.be/9lgNZi2m92I?si=k5fTar9pGw6Il97r)
+- EDM: [Toolroom Records](https://soundcloud.com/toolroomrecords/popular-tracks)
 
 ### Misc
 
