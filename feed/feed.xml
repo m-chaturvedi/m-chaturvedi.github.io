@@ -5,11 +5,56 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-04-20T00:00:00Z</updated>
+  <updated>2026-04-20T03:30:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>Bhakti yoga and the collective Indian subconscious</title>
+    <link href="https://m-chaturvedi.github.io/blog/039/" />
+    <updated>2026-04-20T03:30:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/039/</id>
+    <content type="html">&lt;p&gt;In this post, we discuss how we believe Bhakti yoga affects, and has affected
+in the past, the collective Indian subconscious. We clarify that we are not
+critiquing Bhakti yoga, nor do we consider ourselves qualified to critique it,
+but are only attempting to analyze it neutrally.&lt;/p&gt;
+&lt;p&gt;Bhakti yoga is defined as [1]:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Bhakti yoga, also called Bhakti marga (literally “the path of bhakti”), is a
+spiritual path or spiritual practice within Hinduism focused on loving
+devotion towards any personal deity.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We note the following observations in the abstract about Bhakti yoga:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;It assumes a hierarchy, i.e., there exists an entity A, the deity, that is
+more powerful than the entity, B, that is the devotee towards that deity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It redirects the emotions of the devotee, B, from materialism towards the
+loving spiritual devotion for the deity, A.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;It teaches practicing detachment from material things.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We believe that this thought-pattern can leave an entire population very
+vulnerable if applied towards an entity A that is not a God-like figure. If
+this thought-pattern is applied when A is a normal human being, it can lead to
+observations like what the late Henry Kissinger said about India in the 1970s.
+Note that we interpret the observation in a neutral manner, i.e., after
+removing all the nationalistic and sterotyping sentiment from the quote
+[2]:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;They are superb flatterers, Mr. President. They are masters at flattery.
+They are masters at subtle flattery. That’s how they survived 600 years. They
+suck up — their great skill is to suck up to people in key positions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;[1] &lt;a href=&quot;https://en.wikipedia.org/wiki/Bhakti_yoga&quot;&gt;https://en.wikipedia.org/wiki/Bhakti_yoga&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&quot;https://web.archive.org/web/20201003194808/https://www.nytimes.com/2020/09/03/opinion/nixon-racism-india.html&quot;&gt;https://web.archive.org/web/20201003194808/https://www.nytimes.com/2020/09/03/opinion/nixon-racism-india.html&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On an aspect of Buddhism</title>
     <link href="https://m-chaturvedi.github.io/blog/038/" />
@@ -200,20 +245,6 @@ that institutions would like to propagate.&lt;/p&gt;
 closely as possible, the acceptance criteria would be derived from the laws of
 Nature, and eviction from that group would coincide with eviction from Nature,
 i.e., with death.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>How to use MS Teams to remotely monitor your employees!</title>
-    <link href="https://m-chaturvedi.github.io/blog/026/" />
-    <updated>2026-02-09T17:00:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/026/</id>
-    <content type="html">&lt;p&gt;In this post, we discuss why and how we can use office messengers, specifically MS Teams, to monitor employees.&lt;/p&gt;
-&lt;p&gt;There are many tools available to monitor employee activity. We&#39;ve heard of tools that monitor mouse movement and keystrokes and log anomalous behavior; CCTV cameras, of course, are widely used. But many times, especially in sophisticated companies, a company may want to maintain a façade of trust. In these cases, the omnipresent messenger can come to the rescue.&lt;/p&gt;
-&lt;p&gt;Messengers are installed by default on all office computers. They are also always on on most employees&#39; laptops when they are working. If you work remotely and want to monitor your team, i.e., exert power over the team, you need exclusive access to something; in this case, it is the MS Teams API.&lt;/p&gt;
-&lt;p&gt;Once you have the access, MS Teams provides you with the rest. The MS Teams API comes with presence-collection functionality:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;https://learn.microsoft.com/en-us/graph/api/presence-get?view=graph-rest-1.0&amp;amp;tabs=http&quot;&gt;https://learn.microsoft.com/en-us/graph/api/presence-get?view=graph-rest-1.0&amp;amp;tabs=http&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Now, for each user, you could continuously collect the status and create a database. With some basic ML algorithms, you could find patterns in the collected data and detect anomalies. These anomalies can be correlated with what the employees are proclaiming on the messenger to gain further insights into their behavior and personalities.&lt;/p&gt;
-&lt;p&gt;This strategy has three advantages. The first is that you have an approximate idea of whether your employees are working or not, the second is that it can maintain the façade of trust, and the third is that many team members may not realize that they are being monitored.&lt;/p&gt;
 </content>
   </entry>
 </feed>
