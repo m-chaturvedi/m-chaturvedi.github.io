@@ -5,11 +5,32 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-04-27T04:30:00Z</updated>
+  <updated>2026-05-20T00:30:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>On scientific culture as the balance between an individual and group</title>
+    <link href="https://m-chaturvedi.github.io/blog/042/" />
+    <updated>2026-05-20T00:30:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/042/</id>
+    <content type="html">&lt;p&gt;In this post we put forth our understanding of scientific culture, and how it can be defined as the balance between an individual and a group.&lt;/p&gt;
+&lt;p&gt;First, define tribalism:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tribal behavior refers to deeply ingrained human instincts that prioritize loyalty to one&#39;s social group over out-groups, often shaping perceptions, morality, and decision-making.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Now we define the two types of violence, _
+&lt;em&gt;internal&lt;/em&gt; and &lt;em&gt;external&lt;/em&gt;, that an individual may experience from a group. In less violent groups, violence may be internal, which comes in the form of bullying, harassment, ostracization, and gaslighting, and in more violent societies, external, in the form of physical assault.&lt;/p&gt;
+&lt;p&gt;Now we observe an aspect of science. In the scientific process, a research paper by one individual can change the course of the field because it has to be understood by the whole scientific community. In other words, it doesn&#39;t matter if the research paper goes against the widespread understanding in the community. The balance between an individual scientist, S, and the scientific community, G, is such that the community doesn&#39;t behave in a tribal way and persecute S for going against the conventional understanding. The balance between S and G is such that:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;S can exist in harmony with G.&lt;/li&gt;
+&lt;li&gt;S is not subjected to internal or external violence for their beliefs.&lt;/li&gt;
+&lt;li&gt;G attempts to understand S&#39;s ideas.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Similarly, a culture is scientific if an individual who has ideas that go against conventional understanding is not persecuted for their beliefs, if the beliefs are not prohibited by law, and are not intentionally harmful to G. Overall, a scientific culture eschews tribalism by definition and is close to how the ideal scientific community operates.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Understanding Thanu Padmanabhan&#39;s Akbar story and Peter Higgs&#39; observation about academia</title>
     <link href="https://m-chaturvedi.github.io/blog/041/" />
@@ -222,34 +243,6 @@ can be used:&lt;/p&gt;
 &lt;p&gt;[5] &lt;a href=&quot;https://www.icanw.org/iran_strike_near_israeli_nuclear_site&quot;&gt;https://www.icanw.org/iran_strike_near_israeli_nuclear_site&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[6] &lt;a href=&quot;https://en.wikipedia.org/wiki/American_exceptionalism&quot;&gt;https://en.wikipedia.org/wiki/American_exceptionalism&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[7] &lt;a href=&quot;https://www.pewresearch.org/politics/2026/03/25/americans-broadly-disapprove-of-u-s-military-action-in-iran/&quot;&gt;https://www.pewresearch.org/politics/2026/03/25/americans-broadly-disapprove-of-u-s-military-action-in-iran/&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>On the circularity of Time</title>
-    <link href="https://m-chaturvedi.github.io/blog/029/" />
-    <updated>2026-03-26T23:50:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/029/</id>
-    <content type="html">&lt;p&gt;In this post, we give an argument for why
-time can be circular when the world is understood
-using only the mind.&lt;/p&gt;
-&lt;p&gt;We first define what a theory is. We define a theory to be
-a simplification of the phenomenal world. That is, because of the
-limitations of the human mind, we need to simplify what
-is happening and explain it with a theory. For example, when
-we use a pendulum to measure acceleration due to gravity,
-we don&#39;t care about the exact tensile strength of the thread
-of the pendulum; we just say that it doesn&#39;t stretch
-when the pendulum swings. We don&#39;t specify the size of the bob;
-we just say that it is small, and so on. We simplify each element
-of the experiment and then calculate the acceleration due to gravity.&lt;/p&gt;
-&lt;p&gt;Now, assume a theory that explains everything that is happening
-in the world. This theory will approximately tell us what is going
-to happen at any time into infinity, assuming time is infinite.
-Now, if we assume time to be linear, then this theory will also be infinitely long because time
-is infinite. But due to the limitations of the human mind,
-we cannot have an arbitrarily large theory, so we would have to divide time into measurable chunks.
-Thus Time would become circular if we were to have a theory to explain all events forever.
-That is, if the world is to be understood using only the mind, the limitations of the human mind would make time circular.&lt;/p&gt;
 </content>
   </entry>
 </feed>
