@@ -5,11 +5,28 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-05-23T20:15:00Z</updated>
+  <updated>2026-05-25T13:30:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>On Trust</title>
+    <link href="https://m-chaturvedi.github.io/blog/044/" />
+    <updated>2026-05-25T13:30:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/044/</id>
+    <content type="html">&lt;p&gt;In this post, we put forth our understanding of trust between two entities, A and B. Specifically, we argue that there always has to be an entity, E, abstract or concrete, to ensure the fulfillment of what the trust promises. We further argue that if no such E exists then the relationship is based on power, not trust.&lt;/p&gt;
+&lt;p&gt;We define trust to be a belief by entity A that entity B would perform an action X. Note that here A and B could be a group of people or even an individual.&lt;/p&gt;
+&lt;p&gt;Now, it&#39;s very easy to see the need for the existence of E using Neti-Neti. If B reneges on the promise of X, then there has to exist an entity, E, to ensure that B is held accountable for their actions.&lt;/p&gt;
+&lt;p&gt;Trust could be based on institutions that can enforce laws. For example, when A and B are individuals who are meeting, then there&#39;s an implicit trust that B would not physically assault A. If the trust is breached, law enforcement can hold B accountable. Here, E is law enforcement.&lt;/p&gt;
+&lt;p&gt;E can also be an abstraction. When A and B are friends, and A trusts B to do X, then the entity E is Time. That is, if the trust is broken, then the friendship might break, and in the future, when B needs A, A might not come through to B&#39;s aid. So, there&#39;s a belief in Time and its vagaries.&lt;/p&gt;
+&lt;p&gt;Trust could be based on a belief in religion or culture. For example, in the case of religion, E could be God or Nature. In the case of culture within a group, E could be reputation, i.e., if B reneges, then their reputation can be tarnished inside the group when B is an individual, and amongst similar groups when A, B are a group.&lt;/p&gt;
+&lt;p&gt;Trust could also be based on weapons. For example, it has been argued that nuclear powers don&#39;t fight because there&#39;s a trust in the power of nuclear weapons. Here, E becomes nuclear weapons in the concrete sense, or their mutually destructive nature in the abstract.&lt;/p&gt;
+&lt;p&gt;Trust could also be based on logic. For example, if A has a good understanding of B&#39;s options and interests, then logic would force B to do X, assuming B is rational. This is also very common in interpersonal relationships.&lt;/p&gt;
+&lt;p&gt;So, as we saw in all these examples, there always is an entity E that needs to exist to prevent B from reneging on X.&lt;/p&gt;
+&lt;p&gt;If no such E exists and B cannot be held accountable for their actions, it essentially means that A cannot do anything but live with what B does to them, this means that the relationship is based on power, not trust.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On the Two Interpretations of Reality and the Two Goals of Human Existence</title>
     <link href="https://m-chaturvedi.github.io/blog/043/" />
@@ -222,18 +239,6 @@ crying. The commentator quickly corrected her understanding and behavior to
 save face. This is kind of extreme, but captures the two common ways language
 can be used:&lt;/p&gt;
 &lt;div id=&quot;9qaxoX9MF0M&quot; class=&quot;eleventy-plugin-youtube-embed&quot; style=&quot;position:relative;width:100%;padding-top: 56.25%;&quot;&gt;&lt;iframe style=&quot;position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;&quot; width=&quot;100%&quot; height=&quot;100%&quot; frameborder=&quot;0&quot; title=&quot;Embedded YouTube video&quot; src=&quot;https://www.youtube-nocookie.com/embed/9qaxoX9MF0M&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
-</content>
-  </entry>
-  <entry>
-    <title>On boundaries between countries</title>
-    <link href="https://m-chaturvedi.github.io/blog/031/" />
-    <updated>2026-04-05T13:50:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/031/</id>
-    <content type="html">&lt;p&gt;In this post, we put forth our understanding of Natural boundaries between countries. By Natural we approximately mean sustainable and fair.&lt;/p&gt;
-&lt;p&gt;We first define boundaries between countries A and B. A boundary between A and B is a mechanism for restricting people from moving from A to B in the same way they can move within their own country. This restriction is a physical manifestation of an abstraction. When it&#39;s an ocean or a river, it&#39;s a physical manifestation of Nature. When it&#39;s a fence, it&#39;s the physical manifestation of the need to not let people from other countries in without due process.&lt;/p&gt;
-&lt;p&gt;We now define culture. We approximately define culture to be the set of ideas that people living in geographical proximity believe in.&lt;/p&gt;
-&lt;p&gt;A boundary that is not a physical manifestation of Nature, like an ocean, a mountain, or a river, assumes that there&#39;s a sudden difference between the people from A and B at the boundary, to warrant the existence of the boundary.&lt;/p&gt;
-&lt;p&gt;This is opposite to how cultures work. There is never a jolting difference between the cultures of two countries, A and B, at any boundary that is non-natural, at least when the boundary is created. We believe that this is the case because human beings have been transferring culture based on geographical proximity, or natural boundaries.&lt;/p&gt;
 </content>
   </entry>
 </feed>
