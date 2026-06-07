@@ -37,6 +37,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
   - [Internship Providing Woman With Hands-On-Shoulders Experience](https://theonion.com/internship-providing-woman-with-hands-on-shoulders-experience/)
   - [Man Annoyed He Has To Chew Current Food Before He Can Chew Next Food](https://theonion.com/man-annoyed-he-has-to-chew-current-food-before-he-can-chew-next-food/)
   - [Coworker Laid Off Solely For Performance-Related Reasons Warns AI Coming For Everyone](https://theonion.com/coworker-laid-off-solely-for-performance-related-reasons-warns-ai-coming-for-everyone/)
+  - [Woman Worried She In Codependent Relationship With Rest Of Humanity](https://theonion.com/woman-worried-she-in-codependent-relationship-with-rest-of-humanity/)
 - BBC advert by John Le Carre. We believe in listening. [BBC radio advert](https://www.youtube.com/watch?v=rTvh61DctUY)
 
 ### Music
