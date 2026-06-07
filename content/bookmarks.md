@@ -39,6 +39,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
   - [Coworker Laid Off Solely For Performance-Related Reasons Warns AI Coming For Everyone](https://theonion.com/coworker-laid-off-solely-for-performance-related-reasons-warns-ai-coming-for-everyone/)
   - [Woman Worried She In Codependent Relationship With Rest Of Humanity](https://theonion.com/woman-worried-she-in-codependent-relationship-with-rest-of-humanity/)
   - [Phone, Porn Addictions Converging Nicely](https://theonion.com/phone-porn-addictions-converging-nicely/)
+  - [Increased Work Commitments Causing Man To Neglect Alcohol](https://theonion.com/increased-work-commitments-causing-man-to-neglect-alcohol/)
 - BBC advert by John Le Carre. We believe in listening. [BBC radio advert](https://www.youtube.com/watch?v=rTvh61DctUY)
 
 ### Music
