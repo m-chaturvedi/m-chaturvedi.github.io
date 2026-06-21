@@ -47,6 +47,9 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 - EDM: [Toolroom Records](https://soundcloud.com/toolroomrecords/popular-tracks)
     - [Patrick Prins - Le Voie Le Soleil (Solardo Remix)](https://soundcloud.com/toolroomrecords/patrick-prins-le-voie-le-soleil-solardo-remix-1)
 
+### Software
+- [`gpgtar`](https://www.gnupg.org/documentation/manuals/gnupg/gpgtar.html): Cool tool compress and encrypt files/directories. Many people have written custom scripts to do exactly this.
+
 ### Misc
 
 - [The electric typewriter.  Long-form article recommendation.](https://tetw.org/)
