@@ -5,11 +5,31 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-07-26T22:40:00Z</updated>
+  <updated>2026-07-27T18:22:48Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title></title>
+    <link href="https://m-chaturvedi.github.io/blog/051/" />
+    <updated>2026-07-27T18:22:48Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/051/</id>
+    <content type="html">&lt;p&gt;---js
+const title = &amp;quot;On Vulnerability&amp;quot;; const date = &amp;quot;2026-07-27T14:20:00-04:00&amp;quot;; const tags = [&amp;quot;philosophy&amp;quot;]; const draft = false;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;In this post, we argue why vulnerability is an important component in personal relationships.&lt;/p&gt;
+&lt;p&gt;We first define personal relationships with others. We define personal relationships with others as the outward projection of the relationship we have with ourselves. In other words, personal relationships are governed by internal laws [1]. Note that we don&#39;t differentiate between close and distant personal relationships, like those with a close friend or an audience; we just define them as relationships that affect one personally.&lt;/p&gt;
+&lt;p&gt;The more true and authentic we are with ourselves, the more vulnerable we are with ourselves. And the more vulnerable we are with ourselves, the more authentically we can connect with others. The authenticity can come from two sources: emotions and reason [2]. That is, interpreting ourselves to be the physical body or not, i.e., characterizing the perceived reality as a cognitive bias or not [3].&lt;/p&gt;
+&lt;p&gt;We can study this in two professions that are at the two ends of the spectrum: the philosopher and the artist. The philosopher, who interprets themselves to be the mind, connecting with others using reason, and the artist, who interprets themselves to be the body, connecting with others using emotions.&lt;/p&gt;
+&lt;p&gt;Both philosophers and artists can connect with a large audience at a personal level. The philosopher is very honest with others, i.e., they share their mind in the form of thoughts, which makes them very vulnerable to others, since everyone knows where they stand on many issues, so they can connect with a large audience at a personal level.&lt;/p&gt;
+&lt;p&gt;The artist is very vulnerable to others because they share their real emotions[4] in the form of the art they create, and thus are capable of connecting to a large audience at a personal level.&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/050/&quot;&gt;https://m-chaturvedi.github.io/blog/050/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/047/&quot;&gt;https://m-chaturvedi.github.io/blog/047/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/040/&quot;&gt;https://m-chaturvedi.github.io/blog/040/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4] &lt;a href=&quot;https://en.wikipedia.org/wiki/Method_acting&quot;&gt;https://en.wikipedia.org/wiki/Method_acting&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On the Two Types of Laws and the Two Interpretations of Reality</title>
     <link href="https://m-chaturvedi.github.io/blog/050/" />
@@ -180,49 +200,6 @@ we discussed how perceived reality can be characterized as a cognitive bias by s
 &lt;li&gt;G attempts to understand S&#39;s ideas.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Similarly, a culture is scientific if an individual who has ideas that go against conventional understanding is not persecuted for their beliefs, if the beliefs are not prohibited by law, and are not intentionally harmful to G. Overall, a scientific culture eschews tribalism by definition and is close to how the ideal scientific community operates.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Understanding Thanu Padmanabhan&#39;s Akbar story and Peter Higgs&#39; observation about academia</title>
-    <link href="https://m-chaturvedi.github.io/blog/041/" />
-    <updated>2026-04-27T04:30:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/041/</id>
-    <content type="html">&lt;p&gt;In this post, we discuss how we believe the story on late Thanu Padmanabhan’s homepage and late Peter Higgs&#39; observation about contemporary academia are linked. First, we start with our interpretation of Dr. Padmanabhan’s Akbar story [1].  The story goes:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;In the court of Akbar Badshah (
-&#39;Badshah&#39;, loosely translated, means &#39;emperor&#39;), there was a musician
-called Tansen. He used to enthrall everyone in Akbar&#39;s Court with his
-superb performances. Once, after
-such a rendition, Akbar started praising him sky-high and said, &amp;quot;There
-can be no-one else in this world
-who can sing so well&amp;quot;. Tansen disagreed, saying he knows of a hermit who
-lives in the jungle on the banks of Yamuna river who is far superior
-and that Tansen himself has learnt music from him for sometime. Akbar,
-who could not believe this, wanted to listen to this hermit in order to
-judge for himself. Since the hermit did not want any publicity, it was
-decided that Tansen will take Akbar near the place where the hermit
-lived and they should listen to his music without creating any
-disturbance.&lt;/p&gt;
-&lt;p&gt;They set out one day and reached the jungle near the river Yamuna,
-where, at a distance, they saw the hermit&#39;s hut. As the sun was setting
-on Yamuna, with all Nature at peace, the hermit came out his hut, sat on
-a rock facing the river and started singing. Akbar could immediately
-see that this was music of a completely different class which Tansen
-could never produce.&lt;/p&gt;
-&lt;p&gt;On their way back, Akbar queried, &amp;quot;Tansen, you say he taught you music; clearly, he has held back some techniques from you&amp;quot;.&lt;/p&gt;
-&lt;p&gt;&amp;quot;No&amp;quot;, said Tansen. &amp;quot;I know all the technical aspects of music he does.&amp;quot;&lt;/p&gt;
-&lt;p&gt;&amp;quot;But, Tansen, then how do you account for such difference in quality ?&amp;quot;&lt;/p&gt;
-&lt;p&gt;&amp;quot;It is simple. He sings for Yamuna while I sing for Badshah&amp;quot;.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Like we have &lt;a href=&quot;https://m-chaturvedi.github.io/blog/021/&quot;&gt;discussed in a previous post&lt;/a&gt;, the context in which an activity is done exerts power over the doer. When an activity is done in a context where only Nature&#39;s laws are at work, the forces that cause the activity are Natural forces. Since the only context at work is Nature&#39;s context, the observed changes can happen only to Nature, and the only reciprocation is what is created by Nature within oneself. Thus, the context in which an activity is practiced affects the quality of the activity. This is what we believe the story is about.&lt;/p&gt;
-&lt;p&gt;Now, we come to an article about the Nobel Prize-winning physicist Peter Higgs in &lt;em&gt;The Guardian&lt;/em&gt; [2] from 2013. He observes:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;That he wouldn&#39;t be able to achieve the Nobel Prize-winning breakthrough he did in 1964 in the current academic climate, because he wouldn&#39;t have the &lt;em&gt;peace and quiet&lt;/em&gt;.&lt;/li&gt;
-&lt;li&gt;That he wouldn&#39;t be able to get an academic job anymore, and that the university had planned to fire him if he didn&#39;t get a Nobel Prize.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;We believe the observations by Dr. Padmanabhan and Dr. Higgs, are related. Since the quality of the work is affected by the context in which the work is done, Dr. Higgs observes that he wouldn&#39;t be able to do his Nobel Prize-winning work in the current academic climate. The &lt;em&gt;peace and quiet&lt;/em&gt; he speaks of is essentially being able to work where the only force one experiences is that of Nature, not of peers, grants, and the university. Dr. Padmanabhan observes this via the story of how the quality of Tansen&#39;s teacher&#39;s work was affected by the agency that set the context for his work, which was the river around his hut, and not Akbar&#39;s praise and gifts.&lt;/p&gt;
-&lt;p&gt;[1] Padmanabhan&#39;s Akbar Story: &lt;a href=&quot;https://web.archive.org/web/20241008215355/https://web.iucaa.in/~paddy/&quot;&gt;https://web.archive.org/web/20241008215355/https://web.iucaa.in/~paddy/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[2] Peter Higgs: I wouldn&#39;t be productive enough for today&#39;s academic system &lt;a href=&quot;https://web.archive.org/web/20140213131119/www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system&quot;&gt;https://web.archive.org/web/20140213131119/www.theguardian.com/science/2013/dec/06/peter-higgs-boson-academic-system&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
