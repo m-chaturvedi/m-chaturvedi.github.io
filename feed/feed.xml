@@ -15,7 +15,7 @@
     <link href="https://m-chaturvedi.github.io/blog/053/" />
     <updated>2026-08-02T15:30:00Z</updated>
     <id>https://m-chaturvedi.github.io/blog/053/</id>
-    <content type="html">&lt;p&gt;In this post, we explain a way in which propaganda is spread. We first propose an observation about when a person P says a statement X:&lt;/p&gt;
+    <content type="html">&lt;p&gt;In this post, we explain a way in which propaganda is spread. We first propose an observation about when a person P says a statement X in a context C:&lt;/p&gt;
 &lt;p&gt;In a context C, P said a statement X if and only if P can say not(X), i.e., the opposite of X. If not(X) cannot be said in context C, then there exists some underlying propaganda being spread while saying X.&lt;/p&gt;
 &lt;p&gt;We now give examples of our observation for different contexts:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Politics&lt;/strong&gt;: Consider two political parties, A and B. A spokesperson for party A says that party B is corrupt. Here, the context is political, and the complementary statement would be that party A&#39;s spokesperson says party B is honest. But we know that party A would never explicitly praise party B. Thus, the complementary statement cannot be said. So, party A&#39;s spokesperson&#39;s propaganda is to promote party A over B, no matter what.&lt;/p&gt;
