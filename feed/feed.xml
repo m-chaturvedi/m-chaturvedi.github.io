@@ -5,7 +5,7 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-08-02T15:30:00Z</updated>
+  <updated>2026-08-05T06:00:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
@@ -13,7 +13,7 @@
   <entry>
     <title>On Language and Propaganda</title>
     <link href="https://m-chaturvedi.github.io/blog/053/" />
-    <updated>2026-08-02T15:30:00Z</updated>
+    <updated>2026-08-05T06:00:00Z</updated>
     <id>https://m-chaturvedi.github.io/blog/053/</id>
     <content type="html">&lt;p&gt;In this post, we explain a way in which propaganda is spread. We first propose an observation about when a person P says a statement X in a context C:&lt;/p&gt;
 &lt;p&gt;In a context C, P said a statement X if and only if P can say not(X), i.e., the opposite of X. If not(X) cannot be said in context C, then there exists some underlying propaganda being spread while saying X.&lt;/p&gt;
