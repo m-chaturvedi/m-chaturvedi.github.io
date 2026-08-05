@@ -5,11 +5,27 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-08-02T15:30:00Z</updated>
+  <updated>2026-08-05T05:43:58Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title></title>
+    <link href="https://m-chaturvedi.github.io/blog/053/" />
+    <updated>2026-08-05T05:43:58Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/053/</id>
+    <content type="html">&lt;p&gt;In this post, we explain a way in which propaganda is spread. We first propose an observation about when a person P says a statement X:&lt;/p&gt;
+&lt;p&gt;In a context C, P said a statement X if and only if P can say not(X), i.e., the opposite of X. If not(X) cannot be said in context C, then there exists some underlying propaganda being spread while saying X.&lt;/p&gt;
+&lt;p&gt;We now give examples of our observation for different contexts:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Politics&lt;/em&gt;: Consider two political parties, A and B. A spokesperson for party A says that party B is corrupt. Here, the context is political, and the complementary statement would be that party A&#39;s spokesperson says party B is honest. But we know that party A would never explicitly praise party B. Thus, the complementary statement cannot be said. So, party A&#39;s spokesperson&#39;s propaganda is to promote party A over B, no matter what.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Dating&lt;/em&gt;: Consider a man A trying to woo a woman B. A says to B that she is very beautiful. Here, the context is dating. The complementary statement would be A saying that B is not beautiful. But we know that A would not say that if they want to have a chance of dating B. Thus, the complementary statement cannot be said. So, A&#39;s propaganda is to make B feel good, not tell them the truth.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Selling a product&lt;/em&gt;: Consider a CEO announcing a product, A, and a competing product, B. The CEO says that A is better than B overall. Here, the context is marketing. The complementary statement would be that B is better than A. &lt;a href=&quot;https://m-chaturvedi.github.io/blog/012&quot;&gt;But we know that the CEO would never make such a statement&lt;/a&gt; because the laws of capitalism prevent it. So, the propaganda that the CEO is spreading is that his company&#39;s product A is better than others, whether it is objectively so or not.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Day-to-day life&lt;/em&gt;: Consider A wishing B a happy birthday. The complement of this would be A wishing B a sad birthday. But we know that this would not happen in a general context. Here, the propaganda being spread is that birthdays are inherently good.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;War&lt;/em&gt;: Consider country A&#39;s spokesperson saying to country B that country A is going to attack country B tonight. Now the complementary statement would be A&#39;s spokesperson saying that they are not going to attack B tonight. But we know that this rarely happens. So, here the propaganda is that conveying that an attack is going to happen is more important than conveying that the attack is not going to happen.&lt;/p&gt;
+&lt;p&gt;So, we gave a few examples of how not being able to say the complement of a statement in a context inherently means that some underlying propaganda is being spread.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On an Aspect of Buddhism</title>
     <link href="https://m-chaturvedi.github.io/blog/052/" />
@@ -207,17 +223,6 @@ we discussed how perceived reality can be characterized as a cognitive bias by s
 &lt;p&gt;Trust could be based on morality. This is common in interactions between individuals of different cultures. The individual assumes that the other person is not a sociopath and proceeds with it. Note that when this trust is breached, it can lead to significant problems in very individualistic countries.&lt;/p&gt;
 &lt;p&gt;So, as we saw in all these examples, there always is an entity E that needs to exist to prevent B from reneging on X.&lt;/p&gt;
 &lt;p&gt;If no such E exists and B cannot be held accountable for their actions, it essentially means that A cannot do anything but live with what B does to them, this means that the relationship is based on power, not trust.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>On the Two Interpretations of Reality and the Two Goals of Human Existence</title>
-    <link href="https://m-chaturvedi.github.io/blog/043/" />
-    <updated>2026-05-23T20:15:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/043/</id>
-    <content type="html">&lt;p&gt;In this post we understand how the two different ways in which perceived reality is interpreted can lead to two different goals of human life.&lt;/p&gt;
-&lt;p&gt;Like we have discussed in &lt;a href=&quot;https://m-chaturvedi.github.io/blog/040/&quot;&gt;a previous post&lt;/a&gt;, if reality is to be characterized by what a thought-free mind perceives when all the input to it from the senses is unchanging and minimal, then the goal of human life becomes Nirvana, i.e., to control the mind to the extent that it can detach itself from sensory input. This is so because when human life is represented with an abstraction, colloquially as the soul, the individual cannot differentiate between their own offspring and those of others. The goal of life becomes to sustain life, as an abstraction, not necessarily via procreation.&lt;/p&gt;
-&lt;p&gt;If the mind and senses are not separated and are considered as a whole, i.e., the individual is represented as the physical body, perceived reality cannot be characterized as a cognitive bias. This leads to a different goal of human existence. The goal of human existence then becomes to procreate, because individuals can differentiate between their own offspring and those of others. This is the common scientific understanding.&lt;/p&gt;
-&lt;p&gt;Note that although the two interpretations, to procreate and to sustain life, sound similar, they can be different. For example, even when the goal of humans may be to procreate, individuals may form groups and become violent towards each other, and human life may not sustain itself. Also, if all individuals achieve Nirvana, human life may not sustain itself in material form. We believe that Nature is designed such that there&#39;s a balance between individuals believing in the two ideas, such that the extinction of human beings does not happen.&lt;/p&gt;
 </content>
   </entry>
 </feed>
