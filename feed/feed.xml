@@ -22,7 +22,7 @@ We call this concept &amp;quot;word-distance&amp;quot; and define it similarly t
 defined in computer science [1]:&lt;/p&gt;
 &lt;p&gt;&lt;i&gt;Given two words, A and B, what is the distance between their meanings that
 warrants their existence as separate words?&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;We now define two common ways in which words with almost zero word-distance
+&lt;p&gt;We now define some common ways in which words with almost zero word-distance
 exist in languages like English:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
