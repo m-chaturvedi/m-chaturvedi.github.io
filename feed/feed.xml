@@ -5,11 +5,71 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-08-21T17:30:00Z</updated>
+  <updated>2026-08-21T19:30:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>On Word Distance in Natural Languages</title>
+    <link href="https://m-chaturvedi.github.io/blog/060/" />
+    <updated>2026-08-21T19:30:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/060/</id>
+    <content type="html">&lt;p&gt;In this post, we discuss an aspect of natural languages, specifically English.
+We also note that we only make observations about the written aspect of
+languages, not of the spoken aspect.
+We call this concept &amp;quot;word-distance&amp;quot; and define it similarly to how it is
+defined in computer science [1]:&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;Given two words, A and B, what is the distance between their meanings that
+warrants their existence as separate words?&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;We now define two common ways in which words with almost zero word-distance
+exist in languages like English:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Context&lt;/em&gt;: We observe that some languages like English have different words
+that exist for different contexts even when they have the same meaning. For
+example, the word &lt;em&gt;awesome&lt;/em&gt; in a casual context would be translated to
+&lt;em&gt;impressive&lt;/em&gt; in a more serious context, although the distance between them is
+only contextual.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Synonyms&lt;/em&gt;: Another way low word-distance can be introduced is via
+synonyms. Many times, synonyms can be used in the same context. For example,
+a synonym for &lt;em&gt;awesome&lt;/em&gt; can be &lt;em&gt;amazing&lt;/em&gt;, and both can be used in a casual
+context.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Time[2]&lt;/em&gt;: Words can get out of fashion and become dependent on time, like &lt;em&gt;thrice&lt;/em&gt;
+is no longer used; it is &lt;em&gt;three times&lt;/em&gt; now.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Space[2]&lt;/em&gt;: Even if the language used is the same, separation by space can create
+different new words for the same meaning. For example, in American English
+the word &lt;em&gt;tap&lt;/em&gt; is not used; it is called &lt;em&gt;faucet&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For a language that describes Nature, like Math is for Physics, we believe that
+it should be very clear what the word-distance between any two words A and B
+is. And possibly, there should be some way to quantify meaning. For a language
+for Physics, the only context is that of Nature, and synonyms just add noise to
+the language, so the above-mentioned ways can be avoided. Additionally, using
+different words at different times and in different places can add unnecessary
+noise.&lt;/p&gt;
+&lt;p&gt;We note that our observations are only from the point of view of the mind and
+may be valid for philosophy and science. From the point of view of the body and
+senses, i.e. for poetry and emotional expression, we believe that the existence
+of words that can be used interchangeably does provide colorfulness to the
+language. We have previously written about a perfect language[2], sound[3], and
+ether[4] that are related to this post.&lt;/p&gt;
+&lt;p&gt;Thus, we proposed an idea of word-distance based on meaning and made a few
+observations as to how low word-distance words add noise in scientific and
+philosophical contexts.&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&quot;https://en.wikipedia.org/wiki/Levenshtein_distance&quot;&gt;https://en.wikipedia.org/wiki/Levenshtein_distance&lt;/a&gt; &lt;br&gt;
+[2] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/008/&quot;&gt;https://m-chaturvedi.github.io/blog/008/&lt;/a&gt; &lt;br&gt;
+[3] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/056/&quot;&gt;https://m-chaturvedi.github.io/blog/056/&lt;/a&gt; &lt;br&gt;
+[4] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/055/&quot;&gt;https://m-chaturvedi.github.io/blog/055/&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On East and West</title>
     <link href="https://m-chaturvedi.github.io/blog/059/" />
@@ -232,17 +292,6 @@ authentic with themselves.&lt;/p&gt;
 &lt;p&gt;[2] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/047/&quot;&gt;https://m-chaturvedi.github.io/blog/047/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[3] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/040/&quot;&gt;https://m-chaturvedi.github.io/blog/040/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;[4] &lt;a href=&quot;https://en.wikipedia.org/wiki/Method_acting&quot;&gt;https://en.wikipedia.org/wiki/Method_acting&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>On the Two Types of Laws and the Two Interpretations of Reality</title>
-    <link href="https://m-chaturvedi.github.io/blog/050/" />
-    <updated>2026-07-26T22:40:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/050/</id>
-    <content type="html">&lt;p&gt;In this post, we put forth our understanding of how the two interpretations of reality can lead to two types of laws.&lt;/p&gt;
-&lt;p&gt;We have discussed in a previous post, &lt;a href=&quot;https://m-chaturvedi.github.io/blog/040/&quot;&gt;how perceived reality can be interpreted as a cognitive bias&lt;/a&gt;. In this post, we propose that the two interpretations lead to two separate types of laws: internal and external law.&lt;/p&gt;
-&lt;p&gt;If perceived reality is not interpreted as a cognitive bias, the individual would be represented by their physical manifestation, i.e., by the body. This leads to external law because, with this interpretation, we would need an external (to the body) entity to make and enforce the laws. This is the common type of law we see around us, with police, courts, and books of law.&lt;/p&gt;
-&lt;p&gt;The second type of law is internal law. This is the law when the whole world is perceived only with the mind, without any inputs from the senses. This typically manifests as the individual not being comfortable with themselves because they have either caused injustice or have been unjustly treated, according to the internal law. Since this interpretation of reality &lt;a href=&quot;https://m-chaturvedi.github.io/blog/043/&quot;&gt;leads to Nirvana as the goal of human existence&lt;/a&gt;, internal law typically manifests as ideas like karma, doing penances, etc.&lt;/p&gt;
 </content>
   </entry>
 </feed>
