@@ -5,11 +5,56 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-08-22T19:40:00Z</updated>
+  <updated>2026-08-23T16:40:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>On Enlightenment and the Two Interpretations of Perceived Reality</title>
+    <link href="https://m-chaturvedi.github.io/blog/063/" />
+    <updated>2026-08-23T16:40:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/063/</id>
+    <content type="html">&lt;p&gt;In this post, we argue that the two ways of characterizing perceived reality
+change the definition of enlightenment.&lt;/p&gt;
+&lt;p&gt;As we mentioned in a previous post, perceived reality can be characterized as a
+cognitive bias when the mind is disconnected from the body and the senses[1],
+and perceived reality is to be understood by the mind alone, without the body
+and senses.&lt;/p&gt;
+&lt;p&gt;When perceived reality is not considered a cognitive bias, we end up with an
+interpretation of enlightenment that is caused by detachment from material
+things. That is, we are born attached, then become detached, and reach
+enlightenment. Of note here is that both attachment and detachment assume the
+presence of emotions towards the material world. We have previously noted that
+this definition leads to Maya being the mother of Buddha[2].&lt;/p&gt;
+&lt;p&gt;When perceived reality is characterized as a cognitive bias, and we start
+analyzing enlightenment only from the point of view of the mind, there cannot
+be any emotions assumed, and we get a definition that is based on knowledge and
+the lack thereof, i.e., ignorance. So, the definition of enlightenment becomes
+a change in the state of the mind from ignorance to knowledge. We observe that
+this change is similar to how the definition of sin changes[3]. So, according
+to the following definition from Advaita Vedanta[4], the individual is born
+enlightened but mistakenly identifies themself with the body and senses:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In a popular sense, [A]dvaita is often expressed as the famous diction that
+Atman is Brahman, meaning that jivatman, the individual experiencing self, is
+ultimately pure awareness mistakenly identified with body and the senses, and
+non-different (&amp;quot;na aparah&amp;quot;) from Ātman/Brahman, the highest Self or Reality;
+the knowledge of this true identity is liberating.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;We further guess that this difference is due to the fact that the &#39;means of
+knowledge&#39;[5] (&lt;em&gt;Pramana&lt;/em&gt;) for Bauddha philosophy and Vedanta philosophy, of which
+Advaita Vedanta is a part, are different:&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://m-chaturvedi.github.io/blog/063/a09biAZxfa-1180.avif 1180w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://m-chaturvedi.github.io/blog/063/a09biAZxfa-1180.webp 1180w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://m-chaturvedi.github.io/blog/063/a09biAZxfa-1180.png&quot; alt=&quot;alt&quot; width=&quot;1180&quot; height=&quot;626&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;Thus, in this post, we argue that the definition of enlightenment depends on
+whether perceived reality is characterized as a cognitive bias or not.&lt;/p&gt;
+&lt;p&gt;[1] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/038/&quot;&gt;https://m-chaturvedi.github.io/blog/038/&lt;/a&gt; &lt;br&gt;
+[2] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/040/&quot;&gt;https://m-chaturvedi.github.io/blog/040/&lt;/a&gt; &lt;br&gt;
+[3] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/061/&quot;&gt;https://m-chaturvedi.github.io/blog/061/&lt;/a&gt; &lt;br&gt;
+[4] &lt;a href=&quot;https://en.wikipedia.org/wiki/Advaita_Vedanta#Etymology&quot;&gt;https://en.wikipedia.org/wiki/Advaita_Vedanta#Etymology&lt;/a&gt; &lt;br&gt;
+[5] &lt;a href=&quot;https://en.wikipedia.org/wiki/Pramana&quot;&gt;https://en.wikipedia.org/wiki/Pramana&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On Non-Existence as a Means of Knowledge</title>
     <link href="https://m-chaturvedi.github.io/blog/062/" />
@@ -281,22 +326,6 @@ Nyaya Sutra.&lt;/p&gt;
 &lt;p&gt;Krishna acts as a charioteer, and not as a co-fighter, telling us that Nature guides the individual by taking them to the right places when they act on the path of dharma.&lt;/p&gt;
 &lt;p&gt;Even when in groups, divine knowledge is given at the individual level, as we wrote about before, &lt;a href=&quot;https://m-chaturvedi.github.io/blog/016/&quot;&gt;that the source of knowledge is within, not outside&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thus, we made a few observations and argued that the Bhagavad Gita emphasizes individual responsibility.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>On Language and Propaganda</title>
-    <link href="https://m-chaturvedi.github.io/blog/053/" />
-    <updated>2026-08-05T06:00:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/053/</id>
-    <content type="html">&lt;p&gt;In this post, we explain a way in which propaganda is spread. We first propose an observation about when a person P says a statement X in a context C:&lt;/p&gt;
-&lt;p&gt;In a context C, P said a statement X if and only if P can say not(X), i.e., the opposite of X. If not(X) cannot be said in context C, then there exists some underlying propaganda being spread while saying X.&lt;/p&gt;
-&lt;p&gt;We now give examples of our observation for different contexts:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Politics&lt;/strong&gt;: Consider two political parties, A and B. A spokesperson for party A says that party B is corrupt. Here, the context is political, and the complementary statement would be that party A&#39;s spokesperson says party B is honest. But we know that party A would never explicitly praise party B. Thus, the complementary statement cannot be said. So, party A&#39;s spokesperson&#39;s propaganda is to promote party A over B, no matter what.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dating&lt;/strong&gt;: Consider a man A trying to woo a woman B. A says to B that she is very beautiful. Here, the context is dating. The complementary statement would be A saying that B is not beautiful. But we know that A would not say that if they want to have a chance of dating B. Thus, the complementary statement cannot be said. So, A&#39;s propaganda is to make B feel good, not tell them the truth.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Selling a product&lt;/strong&gt;: Consider a CEO announcing a product, A, and consider a competing product, B. The CEO says that A is better than B overall. Here, the context is marketing. The complementary statement would be that B is better than A. &lt;a href=&quot;https://m-chaturvedi.github.io/blog/012&quot;&gt;But we know that the CEO would never make such a statement&lt;/a&gt; because the laws of capitalism prevent it. So, the propaganda that the CEO is spreading is that his company&#39;s product A is better than others, whether it is objectively so or not.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Day-to-day Life&lt;/strong&gt;: Consider A wishing B a happy birthday. The complement of this would be A wishing B a sad birthday. But we know that this would not happen in a general context. Here, the propaganda being spread is that birthdays are inherently good.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;War&lt;/strong&gt;: Consider country A&#39;s spokesperson saying to country B that country A is going to attack country B tonight. Now the complementary statement would be A&#39;s spokesperson saying that they are not going to attack B tonight. But we know that this rarely happens. So, here the propaganda is that conveying that an attack is going to happen is more important than conveying that an attack is not going to happen.&lt;/p&gt;
-&lt;p&gt;So, we gave a few examples of how not being able to say the complement of a statement in a context inherently means that some underlying propaganda is being spread.&lt;/p&gt;
 </content>
   </entry>
 </feed>
