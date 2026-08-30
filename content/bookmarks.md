@@ -56,5 +56,5 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 - [America’s Top Export May Be Anxiety](https://12ft.io/https://www.theatlantic.com/ideas/archive/2024/06/mental-health-crisis-anglosphere-depressed/678724/)
 - [Cool HIIT workout](https://youtu.be/sqB2xf3Sn4o)
 - [Montreal restaurant reviews](https://michelinstarfinedinings.wordpress.com/)
-
+- [Bookbinding Notes from Reddit](https://docs.google.com/document/u/0/d/16RXK9Vt5FNZnjHRQ5zj2C_MBCqCEhaSLiuzqt71SsZo/mobilebasic#h.w6z1ivqd6jaj)
 </article>
