@@ -46,6 +46,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 - Great music, wonderfully sung, thoughtful lyrics: [It hurts](https://youtu.be/9lgNZi2m92I?si=k5fTar9pGw6Il97r)
 - EDM: [Toolroom Records](https://soundcloud.com/toolroomrecords/popular-tracks)
     - [Patrick Prins - Le Voie Le Soleil (Solardo Remix)](https://soundcloud.com/toolroomrecords/patrick-prins-le-voie-le-soleil-solardo-remix-1)
+- [Farak - Tara: Gawaya is qadar Ke...](https://youtu.be/vM9ewl70Upk)
 
 ### Software
 - [`gpgtar`](https://www.gnupg.org/documentation/manuals/gnupg/gpgtar.html): Cool tool compress and encrypt files/directories. Many people have written custom scripts to do exactly this.
