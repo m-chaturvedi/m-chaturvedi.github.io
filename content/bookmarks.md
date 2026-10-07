@@ -49,7 +49,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 - [Farak - Tara: Gawaya is qadar Ke...](https://youtu.be/vM9ewl70Upk)
 
 ### Software
-- [`gpgtar`](https://www.gnupg.org/documentation/manuals/gnupg/gpgtar.html): Cool tool compress and encrypt files/directories. Many people have written custom scripts to do exactly this.
+- [`gpgtar`](https://www.gnupg.org/documentation/manuals/gnupg/gpgtar.html): Cool tool to compress and encrypt files/directories. Many people have written custom scripts to do exactly this.
 
 ### Misc
 
@@ -58,4 +58,8 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 - [Cool HIIT workout](https://youtu.be/sqB2xf3Sn4o)
 - [Montreal restaurant reviews](https://michelinstarfinedinings.wordpress.com/)
 - [Bookbinding Notes from Reddit](https://docs.google.com/document/u/0/d/16RXK9Vt5FNZnjHRQ5zj2C_MBCqCEhaSLiuzqt71SsZo/mobilebasic#h.w6z1ivqd6jaj)
+
+### Downloads
+- <a href="/VivekChudamani_Madhavananda.pdf" download>The Vivekachudamani (विवेकचूडामणि) of Shankaracharya: transl. by Sw. Madhavananda</a>
+- <a href="/NyayaSutra_SatishChandra.pdf" download>Nyaya Sutra (न्यायसूत्र) of Gautama: transl. by Satish Chandra</a>
 </article>
