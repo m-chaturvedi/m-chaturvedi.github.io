@@ -45,6 +45,7 @@ html {
 
 .menu-icon {
     @apply sm:hidden;
+    background-color: var(--dusk-blue);
 }
 
 #menu-icon-svg {
