@@ -61,7 +61,7 @@
 				<ul tabindex="0" class="nav dropdown-content">
 					{%- for entry in collections.all | eleventyNavigation %}
 						{# <li class="nav-item p-2 m-2 rounded-lg px-4 py-2 font-bold text-white hover:bg-teal-700 dark:text-gray-300 dark:hover:bg-teal-800 bg-teal-950"> #}
-						<li class="nav-item ">
+						<li class="nav-item nav-item-hover">
 							<a href="{{ entry.url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
 						</li>
 					{%- endfor %}

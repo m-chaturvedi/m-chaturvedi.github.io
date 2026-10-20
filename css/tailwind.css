@@ -11,9 +11,20 @@
 /* @apply duration-500 bg-slate-100 rounded-lg; */
 /* } */
 
+/* https://coolors.co/user/palettes/6ad68e0159464500116aaad8
+   left to right.
+*/
+:root {
+  --dusk-blue: #3D5A80;
+  --powder-blue: #98C1D9;
+  --light-cyan: #E0FBFC;
+  --burnt-peach: #EE6C4D;
+  --jet-black: #293241;
+}
+
 /* TODO: See how to use theme for this. */
 html {
-    @apply text-[#333333] bg-[url(/img/bg_pattern.jpg)] m-auto
+    @apply text-(--jet-black) bg-[url(/img/fine-concrete-plaster-pattern.svg)] m-auto
 }
 
 #main_nav {
@@ -23,6 +34,9 @@ html {
 
 #main_nav a[href][aria-current="page"] {
     text-decoration: underline;
+    text-decoration-color: var(--burnt-peach);
+    text-underline-offset: 0.4em;
+    text-decoration-thickness: 3px;
 }
 
 .dropdown:hover .dropdown-content {
@@ -47,12 +61,22 @@ html {
 
 #main_nav .nav-item {
     @apply sm:p-2 sm:mb-10 sm:mt-5 sm:rounded-lg sm:px-4 sm:py-2 sm:font-bold sm:hover:underline sm:text-xl;
-	@apply font-bold;
+    @apply font-bold;
+    @apply text-(--dusk-blue)
 }
+
+.nav-item-hover {
+    text-decoration-color: var(--burnt-peach);
+    text-underline-offset: 0.4em;
+    text-decoration-thickness: 3px;
+}
+
 
 .postlist-item {
     @apply max-sm:flex-wrap;
+    @apply text-(--jet-black)
 }
+
 
 body {
     margin: auto;

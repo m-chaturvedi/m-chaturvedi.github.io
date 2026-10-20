@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Editable seamless 240 × 240 px fine concrete/plaster texture. Colors: #E0FBFC / #293241 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+  <title>Seamless fine concrete and plaster texture</title>
+  <defs>
+    <!-- Stitching preserves the grain at tile boundaries. -->
+    <filter id="micro-mineral-grain" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.19 0.23" numOctaves="3" seed="124" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix in="noise" type="matrix"
+        values="0 0 0 0 .161  0 0 0 0 .196  0 0 0 0 .255  .075 .075 .075 0 0"/>
+    </filter>
+    <filter id="fine-clouding" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+      <feTurbulence type="fractalNoise" baseFrequency="0.021 0.029" numOctaves="2" seed="28" stitchTiles="stitch" result="cloud"/>
+      <feColorMatrix in="cloud" type="matrix"
+        values="0 0 0 0 .161  0 0 0 0 .196  0 0 0 0 .255  .045 .045 .045 0 0"/>
+    </filter>
+  </defs>
+
+  <rect width="240" height="240" fill="#E0FBFC"/>
+  <!-- Very sparse, imperfect aggregate marks; no regular motif. -->
+  <g fill="#293241" opacity=".20">
+    <circle cx="17" cy="31" r=".55"/><circle cx="43" cy="77" r=".35"/><circle cx="66" cy="19" r=".48"/>
+    <circle cx="94" cy="51" r=".32"/><circle cx="122" cy="27" r=".58"/><circle cx="151" cy="80" r=".38"/>
+    <circle cx="181" cy="38" r=".45"/><circle cx="215" cy="65" r=".33"/><circle cx="28" cy="121" r=".5"/>
+    <circle cx="57" cy="151" r=".34"/><circle cx="87" cy="109" r=".56"/><circle cx="113" cy="142" r=".36"/>
+    <circle cx="145" cy="118" r=".46"/><circle cx="172" cy="160" r=".32"/><circle cx="207" cy="128" r=".55"/>
+    <circle cx="18" cy="197" r=".38"/><circle cx="47" cy="216" r=".5"/><circle cx="78" cy="184" r=".33"/>
+    <circle cx="106" cy="207" r=".52"/><circle cx="137" cy="189" r=".36"/><circle cx="166" cy="222" r=".46"/>
+    <circle cx="196" cy="194" r=".34"/><circle cx="224" cy="216" r=".52"/>
+  </g>
+  <g stroke="#293241" stroke-linecap="round" opacity=".12" stroke-width=".45">
+    <path d="M73 94l2.4-.6M191 91l1.8.4M39 174l2.1-.5M133 55l1.7-.4M219 177l2.2.4M12 69l1.8-.3"/>
+  </g>
+  <rect width="240" height="240" filter="url(#fine-clouding)" opacity=".22"/>
+  <rect width="240" height="240" filter="url(#micro-mineral-grain)" opacity=".40"/>
+</svg>

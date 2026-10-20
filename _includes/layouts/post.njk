@@ -7,12 +7,12 @@ layout: layouts/base.njk
 <h1 class="font-bold text-xl">{{ title }}</h1>
 
 <ul class="post-metadata italic mb-8 flex flex-wrap">
-	<li class="italic pr-[10px]">
+	<li class="italic pr-[10px] text-(--powder-blue)">
 		<time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate("yyyy-MM-dd hh:mm:ss z") }}</time>
 	</li>
 	{%- for tag in tags | filterTagList %}
 		{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-		<li class="pr-[10px]">
+		<li class="pr-[10px] text-(--burnt-peach)">
 			<a href="{{ tagUrl }}" class="post-tag link">#{{ tag }}</a>
 			{%- if not loop.last %}, {% endif %}
 		</li>
@@ -28,7 +28,7 @@ layout: layouts/base.njk
 	{%- set previousPost = collections.posts | getPreviousCollectionItem %}
 	{%- set nextPost = collections.posts | getNextCollectionItem %}
 	{%- if nextPost or previousPost %}
-		<ul class="links-nextprev pt-[10px]">
+		<ul class="links-nextprev text-(--dusk-blue) pt-[10px]">
 			{%- if previousPost %}
 				<li class="links-nextprev-prev float-left pb-[10px]">← Previous<br>
 					<a class="link" href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>
