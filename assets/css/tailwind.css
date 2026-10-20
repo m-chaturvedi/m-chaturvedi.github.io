@@ -2001,8 +2001,8 @@
   .border-\[\#e6e6e6\] {
     border-color: #e6e6e6;
   }
-  .bg-\[\#333333\] {
-    background-color: #333333;
+  .bg-\(--burnt-peach\) {
+    background-color: var(--burnt-peach);
   }
   .bg-teal-950 {
     background-color: var(--color-teal-950);
@@ -2201,6 +2201,15 @@
   }
   .whitespace-nowrap {
     white-space: nowrap;
+  }
+  .text-\(--burnt-peach\) {
+    color: var(--burnt-peach);
+  }
+  .text-\(--dusk-blue\) {
+    color: var(--dusk-blue);
+  }
+  .text-\(--powder-blue\) {
+    color: var(--powder-blue);
   }
   .text-inherit {
     color: inherit;
@@ -2459,10 +2468,17 @@
     }
   }
 }
+:root {
+  --dusk-blue: #3D5A80;
+  --powder-blue: #98C1D9;
+  --light-cyan: #E0FBFC;
+  --burnt-peach: #EE6C4D;
+  --jet-black: #293241;
+}
 html {
   margin: auto;
-  background-image: url(/img/bg_pattern.jpg);
-  color: #333333;
+  background-image: url(/img/fine-concrete-plaster-pattern.svg);
+  color: var(--jet-black);
 }
 #main_nav {
   @media (width < 40rem) {
@@ -2560,6 +2576,9 @@ html {
 }
 #main_nav a[href][aria-current="page"] {
   text-decoration: underline;
+  text-decoration-color: var(--burnt-peach);
+  text-underline-offset: 0.4em;
+  text-decoration-thickness: 3px;
 }
 .dropdown:hover .dropdown-content {
   @media (width >= 40rem) {
@@ -2804,11 +2823,18 @@ html {
   }
   --tw-font-weight: var(--font-weight-bold);
   font-weight: var(--font-weight-bold);
+  color: var(--dusk-blue);
+}
+.nav-item-hover {
+  text-decoration-color: var(--burnt-peach);
+  text-underline-offset: 0.4em;
+  text-decoration-thickness: 3px;
 }
 .postlist-item {
   @media (width < 40rem) {
     flex-wrap: wrap;
   }
+  color: var(--jet-black);
 }
 body {
   margin: auto;
