@@ -60,6 +60,7 @@ const title = "Mmanu Chaturvedi: Bookmarks";
 - [Bookbinding Notes from Reddit](https://docs.google.com/document/u/0/d/16RXK9Vt5FNZnjHRQ5zj2C_MBCqCEhaSLiuzqt71SsZo/mobilebasic#h.w6z1ivqd6jaj)
 - [Color Pallets](https://coolors.co/)
 - [Reading on ereaders vs physical books](https://pmc.ncbi.nlm.nih.gov/articles/PMC6384527/)
+- [Xylitol for preventing dental cavities(Table 4)](Xylitol, Sweeteners, and Dental Caries)
 
 ### Downloads
 - <a href="/VivekChudamani_Madhavananda.pdf" download>The Vivekachudamani (विवेकचूडामणि) of Shankaracharya: transl. by Sw. Madhavananda</a>
