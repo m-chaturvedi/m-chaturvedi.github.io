@@ -5,11 +5,69 @@
   <subtitle>This is where Mmanu writes.</subtitle>
   <link href="https://m-chaturvedi.github.io/feed/feed.xml" rel="self" />
   <link href="https://m-chaturvedi.github.io/" />
-  <updated>2026-09-19T08:17:00Z</updated>
+  <updated>2026-11-19T22:00:00Z</updated>
   <id>https://m-chaturvedi.github.io/</id>
   <author>
     <name>Mmanu Chaturvedi</name>
   </author>
+  <entry>
+    <title>On the Atomicity of Mind in the Nyaya Sutra</title>
+    <link href="https://m-chaturvedi.github.io/blog/080/" />
+    <updated>2026-11-19T22:00:00Z</updated>
+    <id>https://m-chaturvedi.github.io/blog/080/</id>
+    <content type="html">&lt;p&gt;In this post, we discuss our understanding of the two properties of the mind
+and hypothesize what&#39;s meant by the &lt;em&gt;atomicity&lt;/em&gt; of the mind in texts like the
+Nyaya Sutra.&lt;/p&gt;
+&lt;p&gt;In a commentary on the Nyaya Sutra [1][2], the mind is characterized as an atomic
+substance:&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://m-chaturvedi.github.io/blog/080/O-bgidfVvq-2390.avif 2390w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://m-chaturvedi.github.io/blog/080/O-bgidfVvq-2390.webp 2390w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://m-chaturvedi.github.io/blog/080/O-bgidfVvq-2390.png&quot; alt=&quot;alt&quot; width=&quot;2390&quot; height=&quot;904&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;Now, we give an intuitive understanding of what&#39;s meant by atomicity. It means
+that:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;The mind can process inputs from only one sense at a time.&lt;/li&gt;
+&lt;li&gt;The mind is always processing input from one sense, even in deep sleep (N3
+stage sleep, or slow-wave sleep [3]).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By senses, we mean the five senses, touch, hearing, etc., but we define these
+senses similarly to how we defined sound [4], i.e., all sensory input that comes
+to the mind through the concept of ears is sound, making pressure waves just
+one manifestation of sound.&lt;/p&gt;
+&lt;p&gt;We support our #1 claim with the common argument that context switching has a
+cognitive load [5][6], although these studies don&#39;t examine switching at the
+sensory level, i.e., by isolating the senses, and are at the task-level. We
+argue that if the mind could simultaneously process inputs from two senses, A
+and B, at a time, then there wouldn&#39;t be any load due to context switching.
+More verbosely, say the mind is processing only sense A and switches to only sense B. If
+the mind can process inputs simultaneously, then the switch shouldn&#39;t involve
+any cognitive load at all; thus, the switch should be seamless, which is
+approximately not the case.&lt;/p&gt;
+&lt;p&gt;We support our #2 claim with research like [7], which note that the mind
+processes sound even in deep sleep, although the amplification of
+understandable stimulus is dampened [8]. Assuming that deep sleep is the state of
+mind in which it does the least sensory processing, even then the mind is
+processing one sense. So, this supports #2.&lt;/p&gt;
+&lt;p&gt;We note that books like &lt;em&gt;Brave New World&lt;/em&gt; [9] also use a trope based on #2 for
+brain-washing. Furthermore, we note that we have previously argued that
+&lt;em&gt;Shruti&lt;/em&gt; [10][11] is heard in a meditative state that is like deep sleep through the
+concept of sound (&lt;em&gt;shabdah&lt;/em&gt;), because the mind is processing sound even in the
+meditative state which is like slow-wave sleep.&lt;/p&gt;
+&lt;p&gt;Thus, we give our understanding of what&#39;s meant by the atomicity of the mind
+in texts like the Nyaya Sutra, and we provide some simple and
+straightforward arguments based on easily accessible scientific research.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;
+[1] &lt;a href=&quot;https://archive.org/details/nyayasutrasofgautamasatishchandravidyabhushannyayadarsanaofgautamaraghunathgosh_202003_872_G&quot;&gt;https://archive.org/details/nyayasutrasofgautamasatishchandravidyabhushannyayadarsanaofgautamaraghunathgosh_202003_872_G&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[2] &lt;a href=&quot;https://en.wikipedia.org/wiki/Ny%C4%81ya_S%C5%ABtras&quot;&gt;https://en.wikipedia.org/wiki/Nyāya_Sūtras&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[3] &lt;a href=&quot;https://www.ncbi.nlm.nih.gov/books/NBK526132/&quot;&gt;https://www.ncbi.nlm.nih.gov/books/NBK526132/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[4] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/056/&quot;&gt;https://m-chaturvedi.github.io/blog/056/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[5] &lt;a href=&quot;https://pmc.ncbi.nlm.nih.gov/articles/PMC7075496/&quot;&gt;https://pmc.ncbi.nlm.nih.gov/articles/PMC7075496/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[6] &lt;a href=&quot;https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(03)00028-7?large_figure=true&amp;amp;mobileUi=0&quot;&gt;https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(03)00028-7?large_figure=true&amp;amp;mobileUi=0&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[7] &lt;a href=&quot;https://www.jneurosci.org/content/45/32/e0368252025&quot;&gt;https://www.jneurosci.org/content/45/32/e0368252025&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[8] &lt;a href=&quot;https://www.nature.com/articles/s41562-018-0502-5&quot;&gt;https://www.nature.com/articles/s41562-018-0502-5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[9] &lt;a href=&quot;https://en.wikipedia.org/wiki/Brave_New_World&quot;&gt;https://en.wikipedia.org/wiki/Brave_New_World&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[10] &lt;a href=&quot;https://en.wikipedia.org/wiki/%C5%9Aruti#Distinction_between_%C5%9Bruti_and_sm%E1%B9%9Bti&quot;&gt;https://en.wikipedia.org/wiki/Śruti#Distinction_between_śruti_and_smṛti&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[11] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/055/&quot;&gt;https://m-chaturvedi.github.io/blog/055/&lt;/a&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>On Languages and the Two Ways of Characterizing Perceived Reality</title>
     <link href="https://m-chaturvedi.github.io/blog/077/" />
@@ -343,65 +401,6 @@ We note that our understanding is based on intuition rather than study.&lt;/p&gt
 [2] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/058/&quot;&gt;https://m-chaturvedi.github.io/blog/058/&lt;/a&gt; &lt;br&gt;
 [3] &lt;a href=&quot;https://web.archive.org/web/20260419112229/https://www.yesvedanta.com/bg/lesson-15/&quot;&gt;https://web.archive.org/web/20260419112229/https://www.yesvedanta.com/bg/lesson-15/&lt;/a&gt; &lt;br&gt;
 [4] &lt;a href=&quot;https://en.wikipedia.org/wiki/Original_sin&quot;&gt;https://en.wikipedia.org/wiki/Original_sin&lt;/a&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>On Word Distance in Natural Languages</title>
-    <link href="https://m-chaturvedi.github.io/blog/060/" />
-    <updated>2026-08-21T19:30:00Z</updated>
-    <id>https://m-chaturvedi.github.io/blog/060/</id>
-    <content type="html">&lt;p&gt;In this post, we discuss an aspect of natural languages, specifically English.
-We also note that we only make observations about the written aspect of
-languages, not of the spoken aspect.
-We call this concept &amp;quot;word-distance&amp;quot; and define it similarly to how it is
-defined in computer science [1]:&lt;/p&gt;
-&lt;p&gt;&lt;i&gt;Given two words, A and B, what is the distance between their meanings that
-warrants their existence as separate words?&lt;/i&gt;&lt;/p&gt;
-&lt;p&gt;We keep the metric of measuring distance vague, but believe there must be ways to quantify it using Mathematics.  We now define some common ways in which words with almost zero word-distance exist in languages like English:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Context&lt;/em&gt;: We observe that some languages like English have different words
-that exist for different contexts even when they have the same meaning. For
-example, the word &lt;em&gt;awesome&lt;/em&gt; in a casual context would be translated to
-&lt;em&gt;impressive&lt;/em&gt; in a more serious context, although the distance between them is
-only contextual.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Synonyms&lt;/em&gt;: Another way low word-distance can be introduced is via
-synonyms. Many times, synonyms can be used in the same context. For example,
-a synonym for &lt;em&gt;awesome&lt;/em&gt; can be &lt;em&gt;amazing&lt;/em&gt;, and both can be used in a casual
-context.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Time[2]&lt;/em&gt;: Words can get out of fashion and become dependent on time, like &lt;em&gt;thrice&lt;/em&gt;
-is no longer used; it is &lt;em&gt;three times&lt;/em&gt; now.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;Space[2]&lt;/em&gt;: Even if the language used is the same, separation by space can create
-different new words for the same meaning. For example, in American English
-the word &lt;em&gt;tap&lt;/em&gt; is not used; it is called &lt;em&gt;faucet&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;For a language that describes Nature, like Math is for Physics, we believe that
-it should be very clear what the word-distance between any two words A and B
-is. And possibly, there should be some way to quantify meaning. For a language
-for Physics, the only context is that of Nature, and synonyms just add noise to
-the language, so the above-mentioned ways can be avoided. Additionally, using
-different words at different times and in different places can add unnecessary
-noise.&lt;/p&gt;
-&lt;p&gt;We note that our observations are only from the point of view of the mind and
-may be valid for philosophy and science. From the point of view of the body and
-senses, i.e. for poetry and emotional expression, we believe that the existence
-of words that can be used interchangeably does provide colorfulness to the
-language. We have previously written about a perfect language[2], sound[3], and
-ether[4] that are related to this post.&lt;/p&gt;
-&lt;p&gt;Thus, we proposed an idea of word-distance based on meaning and made a few
-observations as to how low word-distance words add noise in scientific and
-philosophical contexts.&lt;/p&gt;
-&lt;p&gt;[1] &lt;a href=&quot;https://en.wikipedia.org/wiki/Levenshtein_distance&quot;&gt;https://en.wikipedia.org/wiki/Levenshtein_distance&lt;/a&gt; &lt;br&gt;
-[2] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/008/&quot;&gt;https://m-chaturvedi.github.io/blog/008/&lt;/a&gt; &lt;br&gt;
-[3] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/056/&quot;&gt;https://m-chaturvedi.github.io/blog/056/&lt;/a&gt; &lt;br&gt;
-[4] &lt;a href=&quot;https://m-chaturvedi.github.io/blog/055/&quot;&gt;https://m-chaturvedi.github.io/blog/055/&lt;/a&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
